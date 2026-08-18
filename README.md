@@ -1,9 +1,8 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img alt="Yashas MN" src="art/header-light.png">
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for YASHAS MN" src="art/header-light.png">
 </picture>
+<div align="center">
 
 <br>
 
@@ -82,12 +81,12 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="42" alt="Pandas">
 
 **Systems / DevOps / Security**  
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,nginx&theme=dark" height="48" alt="Systems DevOps Security">
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="48" alt="Systems DevOps Security">
 
 **Decentralized / Data**  
 <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" height="48" alt="Data technologies">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
 
 </div>
 
