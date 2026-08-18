@@ -13,7 +13,7 @@
 
 <br>
 
-# Hello there, I'm [Yashas MN] 👋
+# Hello there, I'm Yashas MN 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Building+systems%2C+not+just+projects;Backend+%7C+Full+Stack+%7C+AI%2FML;Exploring+Cybersecurity+%26+Distributed+Systems;Always+curious.+Always+building." alt="Typing animation" />
 
@@ -144,21 +144,21 @@
 
 <br>
 
-<a href="https://github.com/[USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050B14&title_color=00E5FF&icon_color=7B2CFF&text_color=C8F7FF&ring_color=00E5FF" alt="GitHub statistics"/>
+<a href="https://github.com/YASHAS-MN">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YASHAS-MN&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050B14&title_color=00E5FF&icon_color=7B2CFF&text_color=C8F7FF&ring_color=00E5FF" alt="GitHub statistics"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/[USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&hide_border=true&langs_count=8&bg_color=050B14&title_color=00E5FF&text_color=C8F7FF" alt="Top languages"/>
+<a href="https://github.com/YASHAS-MN">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&hide_border=true&langs_count=8&bg_color=050B14&title_color=00E5FF&text_color=C8F7FF" alt="Top languages"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=[USERNAME]&theme=transparent&hide_border=true&background=050B14&stroke=00E5FF&ring=7B2CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C8F7FF&currStreakNum=FFFFFF&sideNums=C8F7FF&dates=7A9AAA" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=YASHAS-MN&theme=transparent&hide_border=true&background=050B14&stroke=00E5FF&ring=7B2CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C8F7FF&currStreakNum=FFFFFF&sideNums=C8F7FF&dates=7A9AAA" alt="GitHub streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&bg_color=050B14&color=00E5FF&line=00E5FF&point=7B2CFF&area=true&area_color=083B4C&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=050B14&color=00E5FF&line=00E5FF&point=7B2CFF&area=true&area_color=083B4C&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -178,7 +178,7 @@ Add the following workflow to:
 .github/workflows/snake.yml
 -->
 
-<img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 <br>
 
@@ -194,22 +194,13 @@ Add the following workflow to:
 
 <br>
 
-<a href="[LINKEDIN_URL]">
+<a href="linkedin.com/in/yashas-mn">
   <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050B14&labelColor=00E5FF" alt="LinkedIn"/>
 </a>
-<a href="[X_URL]">
-  <img src="https://img.shields.io/badge/X-7B2CFF?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=7B2CFF" alt="X"/>
-</a>
-<a href="[INSTAGRAM_URL]">
+<a href="https://www.instagram.com/yashas_mn_10?igsh=cmYxNm5mbmhpNGcz">
   <img src="https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=050B14&labelColor=00E5FF" alt="Instagram"/>
 </a>
-<a href="[TIKTOK_URL]">
-  <img src="https://img.shields.io/badge/TikTok-7B2CFF?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=7B2CFF" alt="TikTok"/>
-</a>
-<a href="[YOUTUBE_URL]">
-  <img src="https://img.shields.io/badge/YouTube-00E5FF?style=for-the-badge&logo=youtube&logoColor=050B14&labelColor=00E5FF" alt="YouTube"/>
-</a>
-<a href="mailto:[EMAIL]">
+<a href="mailto:yashasmn30@gmail.com">
   <img src="https://img.shields.io/badge/Email-7B2CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=7B2CFF" alt="Email"/>
 </a>
 
