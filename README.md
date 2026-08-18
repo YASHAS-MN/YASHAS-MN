@@ -7,23 +7,17 @@
 
 <br>
 
-<h1><font color="#D946EF">Hello there, I'm Yashas MN 👋</font></h1>
+<img src="art/hello-neon.svg" width="820" alt="Hello there, I'm Yashas MN">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
 
 <br>
 
-<table align="center" cellspacing="12">
+<table align="center" cellspacing="10">
 <tr>
-<td align="center">
-<a href="https://github.com/YASHAS-MN"><img src="https://img.shields.io/github/followers/YASHAS-MN?style=for-the-badge&label=FOLLOWERS&color=24102F&labelColor=0B0710&logo=github&logoColor=E9D5FF" alt="GitHub Followers"></a>
-</td>
-<td align="center">
-<a href="https://github.com/YASHAS-MN?tab=repositories"><img src="https://img.shields.io/github/stars/YASHAS-MN?style=for-the-badge&label=STARS&color=32102F&labelColor=0B0710&logo=github&logoColor=F5E9FF" alt="GitHub Stars"></a>
-</td>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=YASHAS-MN&style=for-the-badge&label=PROFILE+VIEWS&color=2A1238&labelColor=0B0710" alt="Profile Views">
-</td>
+<td align="center"><a href="https://github.com/YASHAS-MN"><img src="https://img.shields.io/github/followers/YASHAS-MN?style=for-the-badge&label=FOLLOWERS&color=2B1238&labelColor=0B0710&logo=github&logoColor=F5E9FF" alt="GitHub Followers"></a></td>
+<td align="center"><a href="https://github.com/YASHAS-MN?tab=repositories"><img src="https://img.shields.io/github/stars/YASHAS-MN?style=for-the-badge&label=STARS&color=3A1038&labelColor=0B0710&logo=github&logoColor=F5E9FF" alt="GitHub Stars"></a></td>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=YASHAS-MN&style=for-the-badge&label=PROFILE+VIEWS&color=4A155A&labelColor=0B0710" alt="Profile Views"></td>
 </tr>
 </table>
 
@@ -37,9 +31,9 @@
 
 </div>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
-<td width="68%" valign="top">
+<td width="64%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -55,18 +49,16 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 - 🛠️ Build, break, understand, rebuild
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
-<img src="art/cp.png" width="220" alt="Yashas MN — Cyberpunk Profile">
+<img src="art/cp.png" width="320" alt="Yashas MN — Cyberpunk Profile">
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<h3><font color="#D946EF"><code>&gt; Build the system. Understand the system. Own the system.</code></font></h3>
-
+<img src="art/system-quote.svg" width="100%" alt="Build the system. Understand the system. Own the system.">
 </div>
 
 ---
@@ -107,7 +99,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&langs_count=8&hide_border=true&theme=midnight-purple&bg_color=09000F&title_color=D946EF&text_color=E9D5FF&border_color=6D28D9&card_width=520" width="520" alt="Top Languages by Repository">
+<img src="art/language-card.svg" width="720" alt="Top Languages by Repository">
 
 <br><br>
 
@@ -133,7 +125,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br><br>
 
-<h3><font color="#D946EF"><code>// Let's build something worth remembering.</code></font></h3>
+<img src="art/connect-phrase.svg" width="820" alt="Let's build something worth remembering.">
 
 <br>
 
