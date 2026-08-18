@@ -1,3 +1,7 @@
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for YASHAS MN" src="art/header-light.png">
+</picture>
 # 💫 About Me
 
 Hello! I'm Yashas — a design-minded developer who blends architecture, research, and practical engineering. I focus on planning and system design, and I use AI tools to help implement the ideas I craft while retaining control over high-level decisions.
