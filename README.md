@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<font color="#C026D3"><code style="text-shadow: 0 0 8px #C026D3, 0 0 15px #C026D3;">&gt; whoami</code></font>
+## <font color="#C026D3"><code style="text-shadow: 0 0 8px #C026D3, 0 0 15px #C026D3;">&gt; whoami</code></font>
 
 </div>
 
