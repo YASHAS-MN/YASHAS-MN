@@ -68,25 +68,35 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br>
 
-<img src="art/category-languages.svg" width="180" alt="Languages">  
+<p align="center">
+<img src="art/category-languages.svg" width="180" alt="Languages"><br>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" height="48" alt="Languages">
+</p>
 
-<img src="art/category-frontend.svg" width="300" alt="Frontend and Backend">  
+<p align="center">
+<img src="art/category-frontend.svg" width="300" alt="Frontend and Backend"><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind&theme=dark" height="48" alt="Frontend and Backend">
+</p>
 
-<img src="art/category-aiml.svg" width="150" alt="AI and ML">  
+<p align="center">
+<img src="art/category-aiml.svg" width="150" alt="AI and ML"><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="48" alt="AI and ML">
 <img src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" height="42" alt="Scikit-learn">
 <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="42" alt="NumPy">
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="42" alt="Pandas">
+</p>
 
-<img src="art/category-systems.svg" width="340" alt="Systems DevOps Security">  
+<p align="center">
+<img src="art/category-systems.svg" width="340" alt="Systems DevOps Security"><br>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="48" alt="Systems DevOps Security">
+</p>
 
-<img src="art/category-data.svg" width="250" alt="Decentralized Data">  
+<p align="center">
+<img src="art/category-data.svg" width="250" alt="Decentralized Data"><br>
 <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
+</p>
 
 </div>
 
