@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## <font color="#D946EF">&gt; whoami</font>
+<img src="art/section-whoami.svg" width="420" alt="whoami">
 
 </div>
 
@@ -64,26 +64,26 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <div align="center">
 
-## <font color="#D946EF">⚡ Tech Stack</font>
+<img src="art/section-tech.svg" width="420" alt="Tech Stack">
 
 <br>
 
-<font color="#C026D3"><b>Languages</b></font>  
+<img src="art/category-languages.svg" width="180" alt="Languages">  
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" height="48" alt="Languages">
 
-<font color="#C026D3"><b>Frontend & Backend</b></font>  
+<img src="art/category-frontend.svg" width="300" alt="Frontend and Backend">  
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind&theme=dark" height="48" alt="Frontend and Backend">
 
-<font color="#C026D3"><b>AI / ML</b></font>  
+<img src="art/category-aiml.svg" width="150" alt="AI and ML">  
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="48" alt="AI and ML">
 <img src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" height="42" alt="Scikit-learn">
 <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="42" alt="NumPy">
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="42" alt="Pandas">
 
-<font color="#C026D3"><b>Systems / DevOps / Security</b></font>  
+<img src="art/category-systems.svg" width="340" alt="Systems DevOps Security">  
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="48" alt="Systems DevOps Security">
 
-<font color="#C026D3"><b>Decentralized / Data</b></font>  
+<img src="art/category-data.svg" width="250" alt="Decentralized Data">  
 <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
@@ -94,7 +94,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <div align="center">
 
-## <font color="#D946EF">📊 GitHub Analytics</font>
+<img src="art/section-analytics.svg" width="500" alt="GitHub Analytics">
 
 <br>
 
@@ -110,7 +110,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <div align="center">
 
-## <font color="#D946EF">🌐 Connect</font>
+<img src="art/section-connect.svg" width="300" alt="Connect">
 
 <br>
 
