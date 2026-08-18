@@ -5,11 +5,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img alt="Logo for YASHAS MN" src="art/header-light.png">
-</picture>
-
 <br><br>
 
 <img src="art/hello-neon.svg" width="820" alt="Hello there, I'm Yashas MN">
