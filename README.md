@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## <font color="#C026D3"><code style="text-shadow: 0 0 8px #C026D3, 0 0 15px #C026D3;">&gt; whoami</code></font>
+## <font color="#D946EF">&gt; whoami</font>
 
 </div>
 
@@ -68,22 +68,22 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br>
 
-**Languages**  
+<font color="#C026D3"><b>Languages</b></font>  
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" height="48" alt="Languages">
 
-**Frontend & Backend**  
+<font color="#C026D3"><b>Frontend & Backend</b></font>  
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind&theme=dark" height="48" alt="Frontend and Backend">
 
-**AI / ML**  
+<font color="#C026D3"><b>AI / ML</b></font>  
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="48" alt="AI and ML">
 <img src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" height="42" alt="Scikit-learn">
 <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="42" alt="NumPy">
 <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="42" alt="Pandas">
 
-**Systems / DevOps / Security**  
+<font color="#C026D3"><b>Systems / DevOps / Security</b></font>  
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="48" alt="Systems DevOps Security">
 
-**Decentralized / Data**  
+<font color="#C026D3"><b>Decentralized / Data</b></font>  
 <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
