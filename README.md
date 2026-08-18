@@ -2,30 +2,43 @@
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for YASHAS MN" src="art/header-light.png">
 </picture>
-````markdown
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,100:7B2CFF&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=C8F7FF">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:00B8D9,100:6C2BD9&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=06131F&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=123B4A">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,100:7B2CFF&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=C8F7FF" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050008,35:16002B,65:6D28D9,100:C026D3&height=230&section=header&text=YASHAS%20MN&fontSize=58&fontColor=F5E9FF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20%7C%20DECENTRALIZED%20%7C%20CYBERSECURITY&descAlignY=62&descSize=16&descColor=E9D5FF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,35:4C1D95,65:9333EA,100:C026D3&height=230&section=header&text=YASHAS%20MN&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20%7C%20DECENTRALIZED%20%7C%20CYBERSECURITY&descAlignY=62&descSize=16&descColor=F5E9FF"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,35:16002B,65:6D28D9,100:C026D3&height=230&section=header&text=YASHAS%20MN&fontSize=58&fontColor=F5E9FF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20%7C%20DECENTRALIZED%20%7C%20CYBERSECURITY&descAlignY=62&descSize=16&descColor=E9D5FF"
+    width="100%"
+    alt="Yashas MN"
+  />
 </picture>
 
 <br>
 
 # Hello there, I'm Yashas MN 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Building+systems%2C+not+just+projects;Backend+%7C+Full+Stack+%7C+AI%2FML;Exploring+Cybersecurity+%26+Distributed+Systems;Always+curious.+Always+building." alt="Typing animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C026D3&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80"
+  alt="Typing animation"
+/>
 
 <br>
 
-<a href="https://github.com/[USERNAME]">
-  <img src="https://img.shields.io/github/followers/[USERNAME]?label=Followers&style=for-the-badge&color=00E5FF&labelColor=050B14&logo=github&logoColor=00E5FF" alt="GitHub followers"/>
+<a href="https://github.com/YASHAS-MN">
+  <img src="https://img.shields.io/github/followers/YASHAS-MN?style=for-the-badge&label=FOLLOWERS&color=A855F7&labelColor=09000F&logo=github&logoColor=E9D5FF" alt="GitHub Followers"/>
 </a>
-<a href="https://github.com/[USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7B2CFF&labelColor=050B14&logo=github&logoColor=C8F7FF" alt="GitHub stars"/>
+<a href="https://github.com/YASHAS-MN?tab=repositories">
+  <img src="https://img.shields.io/github/stars/YASHAS-MN?style=for-the-badge&label=STARS&color=C026D3&labelColor=09000F&logo=github&logoColor=F5E9FF" alt="GitHub Stars"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=[USERNAME]&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=050B14" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=YASHAS-MN&style=for-the-badge&label=PROFILE+VIEWS&color=7E22CE&labelColor=09000F" alt="Profile Views"/>
 
 <br><br>
 
@@ -39,52 +52,41 @@
 
 </div>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="top">
 
 ### 👨‍💻 About Me
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  [Yashas M N]                               │
-│                                              │
-│  🎓 [Degree / University]                   │
-│  💻 Software Engineering                    │
-│  🔐 Cybersecurity                            │
-│  🤖 AI / Machine Learning                   │
-│  🌐 Backend & Full-Stack Development        │
-│  ⛓️ Distributed Systems                     │
-│                                              │
-│  I enjoy understanding how systems work,    │
-│  breaking them down, and building them      │
-│  back better.                               │
-│                                              │
-│  Currently focused on becoming a stronger   │
-│  software engineer through DSA, systems,    │
-│  open source, and real-world projects.      │
-│                                              │
-└──────────────────────────────────────────────┘
-````
+I'm **Yashas MN**, a Computer Science engineering student at **R.V. College of Engineering**, focused on building software that sits at the intersection of **full-stack engineering, decentralized technology, cybersecurity, and intelligent systems**.
 
-* 🔭 Currently building **[Current Project]**
-* 🌱 Currently learning **[Current Focus]**
-* 🧠 Interested in **systems, software architecture & cybersecurity**
-* 🚀 Looking to contribute to **open source**
-* 💬 Ask me about **[Your Strongest Technologies]**
-* 📫 Reach me at **[EMAIL]**
-* ⚡ Fun fact: **[FUN FACT]**
+I enjoy understanding systems from the ground up — from how an API moves data across a network to how distributed systems establish trust.
+
+- 🎓 **B.E. CSE (Cyber Security)** — R.V. College of Engineering
+- 🚀 Currently building **NebulaVerse**
+- 🧠 Interested in **Machine Learning, Decentralized Tech, Full Stack Development, Software Design & Architecture**
+- 🔐 Curious about **security, privacy and user-controlled data**
+- 🌌 Exploring **distributed systems and the architecture behind them**
+- ☕ Powered by **coffee, a laptop, and unreasonable amounts of curiosity**
+- 🛠️ Always building, breaking, learning, and rebuilding
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="[PROFILE_IMAGE_URL]" width="280" alt="[Yashas M N]"/>
+<img
+  src="[CYBERPUNK_PROFILE_IMAGE_URL]"
+  width="260"
+  alt="Yashas MN — Cyberpunk Profile"
+/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub"/>
+<img
+  src="https://skillicons.dev/icons?i=github&theme=dark"
+  width="52"
+  alt="GitHub"
+/>
 
 </td>
 </tr>
@@ -94,7 +96,7 @@
 
 <div align="center">
 
-> <span style="color:#00E5FF"><b>"Build. Break. Understand. Rebuild better."</b></span>
+> **Build the system. Understand the system. Own the system.**
 
 </div>
 
@@ -106,33 +108,28 @@
 
 <br>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,sql&theme=dark" alt="Programming languages"/>
-
-<br><br>
-
-### Backend & Web
-
-<img src="https://skillicons.dev/icons?i=flask,react,nextjs,html,css,tailwind&theme=dark" alt="Backend and web technologies"/>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,sql&theme=dark" alt="Languages"/>
 
 <br><br>
 
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy&theme=dark" alt="AI and ML technologies"/>
-
-<br><br>
-
-### Databases, Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux,vscode&theme=dark" alt="Databases and developer tools"/>
+### 🌐 Full Stack
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind&theme=dark" alt="Full Stack"/>
 
 <br><br>
 
-### Exploring
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" alt="AI ML"/>
 
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,redis,kafka&theme=dark" alt="Technologies being explored"/>
+<br><br>
+
+### 🔐 Systems / DevOps / Security
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,nginx&theme=dark" alt="Systems DevOps Security"/>
+
+<br><br>
+
+### ⛓️ Decentralized / Data
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,postgres,sqlite,redis&theme=dark" alt="Decentralized and Data Technologies"/>
 
 </div>
 
@@ -145,20 +142,35 @@
 <br>
 
 <a href="https://github.com/YASHAS-MN">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YASHAS-MN&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050B14&title_color=00E5FF&icon_color=7B2CFF&text_color=C8F7FF&ring_color=00E5FF" alt="GitHub statistics"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=YASHAS-MN&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=09000F&title_color=C026D3&icon_color=A855F7&text_color=E9D5FF&ring_color=C026D3"
+    alt="GitHub Statistics"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/YASHAS-MN">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&hide_border=true&langs_count=8&bg_color=050B14&title_color=00E5FF&text_color=C8F7FF" alt="Top languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&hide_border=true&langs_count=8&bg_color=09000F&title_color=C026D3&text_color=E9D5FF"
+    alt="Top Languages"
+  />
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YASHAS-MN&theme=transparent&hide_border=true&background=050B14&stroke=00E5FF&ring=7B2CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C8F7FF&currStreakNum=FFFFFF&sideNums=C8F7FF&dates=7A9AAA" alt="GitHub streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=YASHAS-MN&theme=transparent&hide_border=true&background=09000F&stroke=6D28D9&ring=C026D3&fire=A855F7&currStreakLabel=C026D3&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9F8AAE"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=050B14&color=00E5FF&line=00E5FF&point=7B2CFF&area=true&area_color=083B4C&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=09000F&color=E9D5FF&line=C026D3&point=A855F7&area=true&area_color=2E1065&hide_border=true&custom_title=Contribution%20Activity"
+  width="94%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -171,18 +183,31 @@
 <br>
 
 <!--
-Snake Action:
+GitHub Action:
 https://github.com/Platane/snk
 
-Add the following workflow to:
+Workflow:
 .github/workflows/snake.yml
+
+The workflow should generate:
+output/github-contribution-grid-snake.svg
+output/github-contribution-grid-snake-dark.svg
 -->
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-<br>
-
-<sub>Generated automatically from GitHub contribution activity.</sub>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
@@ -190,24 +215,40 @@ Add the following workflow to:
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <br>
 
-<a href="linkedin.com/in/yashas-mn">
-  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050B14&labelColor=00E5FF" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/yashas-mn">
+  <img src="https://img.shields.io/badge/LinkedIn-C026D3?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=09000F" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/yashas_mn_10?igsh=cmYxNm5mbmhpNGcz">
-  <img src="https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=050B14&labelColor=00E5FF" alt="Instagram"/>
+<a href="https://www.instagram.com/yashas_mn_10/">
+  <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=09000F" alt="Instagram"/>
 </a>
 <a href="mailto:yashasmn30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7B2CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=7B2CFF" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=09000F" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,75:7B2CFF,100:050B14&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+<sub>Let's build something worth remembering.</sub>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050008,30:16002B,60:6D28D9,80:C026D3,100:050008&height=150&section=footer&animation=twinkling"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,30:4C1D95,60:9333EA,80:C026D3,100:12001F&height=150&section=footer&animation=twinkling"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,30:16002B,60:6D28D9,80:C026D3,100:050008&height=150&section=footer&animation=twinkling"
+    width="100%"
+    alt="Cyberpunk footer"
+  />
+</picture>
 
 </div>
-```
-
