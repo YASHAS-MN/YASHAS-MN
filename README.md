@@ -5,7 +5,7 @@ The creativity of my mind, the vision I have towards decentralized network is wh
 I have studied and did some projects using tech stack such as React, Vite, Electron. With Languages Python, TS, JS, HTML/CSS. Developing backend using Express, PostgreSQl.  
 Developed around 2-3 machine learning projects using tools such as OpenCV, TensorFlow, PyTorch.
 Worked on security domains, specifically in adaptive IDS.
-I have my fundamentals strong in OS, CN, DBMS/Big Data, AI/ML, Deep Learning, VAPT, Software Development Life Cycle and Agile methods, Cloud Technology
+I have my fundamentals strong in OS, CN, DBMS/Big Data, AI/ML, Deep Learning, VAPT, Software Development Life Cycle and Agile methods, Cloud Technology.
 My special interest and what drives me most of the time to keep my lap open and do coding, cook some designs is Blockchain and decentralized systems. I have done a lot of work on decentralized platforms and am currently working on it too.
 
 Finally, I always love to be with or connect with people in platforms like this where people got crazy ideas, wanna experiment, do some stuffs n coding, takes people away from brainrot stuffs. 
