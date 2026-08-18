@@ -2,7 +2,7 @@
 Hello There, this section allows you to know about me. So speaking of me, perhaps I am the guy who sucks at coding yet designs some good program. The time in which I got introduced to the coding world is when AI was already good n perhaps started cookin' in coding. So I just grasped enough knowledge to differentiate minimum of good code and a bad code. But I realized that AIs are not good or not at all good in architectural decision making, nonetheless any expensive model, they are all same. 
 The creativity of my mind, the vision I have towards decentralized network is what drives me to code late till midnight. I essentially use AI as my hands to execute the design or the blueprint I craft. I take a lot of time research on a specific problem/requirement, do a lot of planning also develop agile mindset and set to implement stuffs.
 
-I have studied and did some projects using tech stack such as React, Vite, Electron. With Languages Python, TS, JS, HTML/CSS. Developing backend using Express, PostgreSQl.
+I have studied and did some projects using tech stack such as React, Vite, Electron. With Languages Python, TS, JS, HTML/CSS. Developing backend using Express, PostgreSQl.  
 Developed around 2-3 machine learning projects using tools such as OpenCV, TensorFlow, PyTorch.
 Worked on security domains, specifically in adaptive IDS.
 I have my fundamentals strong in OS, CN, DBMS/Big Data, AI/ML, Deep Learning, VAPT, Software Development Life Cycle and Agile methods, Cloud Technology
