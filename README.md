@@ -5,6 +5,11 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Logo for YASHAS MN" src="art/header-light.png">
+</picture>
+
 <br><br>
 
 <img src="art/hello-neon.svg" width="820" alt="Hello there, I'm Yashas MN">
@@ -140,6 +145,13 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br><br>
 
+<img src="art/connect-phrase.svg" width="820" alt="Let's build something worth remembering.">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,50:6D28D9,100:C026D3&height=90&section=footer" width="100%" alt="Cyberpunk footer">
+
+</div>
 <img src="art/connect-phrase.svg" width="820" alt="Let's build something worth remembering.">
 
 <br><br>
