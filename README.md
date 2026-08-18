@@ -1,6 +1,6 @@
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for YASHAS MN" src="art/header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Logo for YASHAS MN" src="art/header-light.png">
 </picture>
 <div align="center">
 
@@ -98,7 +98,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br>
 
-<img src="art/language-card.svg" width="720" alt="Top Languages by Repository">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&langs_count=8&hide_border=true&title_color=D946EF&text_color=E9D5FF&bg_color=09000F&border_color=6D28D9&custom_title=%3E%3E%20TOP%20LANGUAGES%20BY%20REPOSITORY&cache_seconds=600" width="520" alt="Top Languages by Repository">
 
 <br><br>
 
