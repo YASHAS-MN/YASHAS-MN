@@ -2,38 +2,221 @@
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
    <img alt="Logo for YASHAS MN" src="art/header-light.png">
 </picture>
-# 💫 About Me
+````markdown
+<div align="center">
 
-Hello! I'm Yashas — a design-minded developer who blends architecture, research, and practical engineering. I focus on planning and system design, and I use AI tools to help implement the ideas I craft while retaining control over high-level decisions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,100:7B2CFF&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=C8F7FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:00B8D9,100:6C2BD9&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=06131F&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=123B4A">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,100:7B2CFF&height=220&section=header&text=%5BYashas%20M%20N%5D&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=18&descColor=C8F7FF" width="100%"/>
+</picture>
 
-I studied computer science and have built projects with React, Vite, and Electron. I work primarily with Python, TypeScript, and JavaScript, and I use HTML/CSS for front-end work. For back-end development I use Express and PostgreSQl.
+<br>
 
-I've built several machine learning projects using OpenCV, TensorFlow, and PyTorch, and I've worked in security domains including adaptive intrusion detection systems (IDS). My fundamentals include operating systems, computer networks, databases and big data, AI/ML and deep learning, VAPT, SDLC/Agile practices, and cloud technologies.
+# Hello there, I'm [Yashas MN] 👋
 
-My primary interests are blockchain and decentralized systems — I enjoy researching protocols and building decentralized platforms, and I'm actively working on projects in this space.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Building+systems%2C+not+just+projects;Backend+%7C+Full+Stack+%7C+AI%2FML;Exploring+Cybersecurity+%26+Distributed+Systems;Always+curious.+Always+building." alt="Typing animation" />
 
-I love connecting with other makers and experimenters on GitHub. If you have a bold idea or want to collaborate, let’s build something together.
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashas.melpal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashas-mn) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashasmn30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magellanbackup10@gmail.com) 
+<a href="https://github.com/[USERNAME]">
+  <img src="https://img.shields.io/github/followers/[USERNAME]?label=Followers&style=for-the-badge&color=00E5FF&labelColor=050B14&logo=github&logoColor=00E5FF" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/[USERNAME]?tab=repositories">
+  <img src="https://img.shields.io/github/stars/[USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7B2CFF&labelColor=050B14&logo=github&logoColor=C8F7FF" alt="GitHub stars"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=[USERNAME]&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=050B14" alt="Profile views"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat&logo=stylus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YASHAS-MN&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=YASHAS-MN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YASHAS-MN&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YASHAS-MN&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YASHAS-MN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=YASHAS-MN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in 
+<div align="center">
+
+## `> whoami`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="65%" valign="top">
+
+### 👨‍💻 About Me
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  [Yashas M N]                               │
+│                                              │
+│  🎓 [Degree / University]                   │
+│  💻 Software Engineering                    │
+│  🔐 Cybersecurity                            │
+│  🤖 AI / Machine Learning                   │
+│  🌐 Backend & Full-Stack Development        │
+│  ⛓️ Distributed Systems                     │
+│                                              │
+│  I enjoy understanding how systems work,    │
+│  breaking them down, and building them      │
+│  back better.                               │
+│                                              │
+│  Currently focused on becoming a stronger   │
+│  software engineer through DSA, systems,    │
+│  open source, and real-world projects.      │
+│                                              │
+└──────────────────────────────────────────────┘
+````
+
+* 🔭 Currently building **[Current Project]**
+* 🌱 Currently learning **[Current Focus]**
+* 🧠 Interested in **systems, software architecture & cybersecurity**
+* 🚀 Looking to contribute to **open source**
+* 💬 Ask me about **[Your Strongest Technologies]**
+* 📫 Reach me at **[EMAIL]**
+* ⚡ Fun fact: **[FUN FACT]**
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="[PROFILE_IMAGE_URL]" width="280" alt="[Yashas M N]"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" alt="GitHub"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> <span style="color:#00E5FF"><b>"Build. Break. Understand. Rebuild better."</b></span>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+<br>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,sql&theme=dark" alt="Programming languages"/>
+
+<br><br>
+
+### Backend & Web
+
+<img src="https://skillicons.dev/icons?i=flask,react,nextjs,html,css,tailwind&theme=dark" alt="Backend and web technologies"/>
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy&theme=dark" alt="AI and ML technologies"/>
+
+<br><br>
+
+### Databases, Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux,vscode&theme=dark" alt="Databases and developer tools"/>
+
+<br><br>
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,redis,kafka&theme=dark" alt="Technologies being explored"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br>
+
+<a href="https://github.com/[USERNAME]">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=050B14&title_color=00E5FF&icon_color=7B2CFF&text_color=C8F7FF&ring_color=00E5FF" alt="GitHub statistics"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/[USERNAME]">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&hide_border=true&langs_count=8&bg_color=050B14&title_color=00E5FF&text_color=C8F7FF" alt="Top languages"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=[USERNAME]&theme=transparent&hide_border=true&background=050B14&stroke=00E5FF&ring=7B2CFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C8F7FF&currStreakNum=FFFFFF&sideNums=C8F7FF&dates=7A9AAA" alt="GitHub streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&bg_color=050B14&color=00E5FF&line=00E5FF&point=7B2CFF&area=true&area_color=083B4C&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br>
+
+<!--
+Snake Action:
+https://github.com/Platane/snk
+
+Add the following workflow to:
+.github/workflows/snake.yml
+-->
+
+<img src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+<br>
+
+<sub>Generated automatically from GitHub contribution activity.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<br>
+
+<a href="[LINKEDIN_URL]">
+  <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050B14&labelColor=00E5FF" alt="LinkedIn"/>
+</a>
+<a href="[X_URL]">
+  <img src="https://img.shields.io/badge/X-7B2CFF?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=7B2CFF" alt="X"/>
+</a>
+<a href="[INSTAGRAM_URL]">
+  <img src="https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=050B14&labelColor=00E5FF" alt="Instagram"/>
+</a>
+<a href="[TIKTOK_URL]">
+  <img src="https://img.shields.io/badge/TikTok-7B2CFF?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=7B2CFF" alt="TikTok"/>
+</a>
+<a href="[YOUTUBE_URL]">
+  <img src="https://img.shields.io/badge/YouTube-00E5FF?style=for-the-badge&logo=youtube&logoColor=050B14&labelColor=00E5FF" alt="YouTube"/>
+</a>
+<a href="mailto:[EMAIL]">
+  <img src="https://img.shields.io/badge/Email-7B2CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=7B2CFF" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:00E5FF,75:7B2CFF,100:050B14&height=140&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+
+</div>
+```
+
