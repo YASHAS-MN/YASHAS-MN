@@ -2,7 +2,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
   <img alt="Logo for YASHAS MN" src="art/header-light.png">
 </picture>
-
 <div align="center">
 
 <br>
@@ -26,9 +25,7 @@
 ---
 
 <div align="center">
-
 <img src="art/section-whoami.svg" width="420" alt="whoami">
-
 </div>
 
 <table align="center" width="92%">
@@ -64,7 +61,6 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 ---
 
 <div align="center">
-
 <img src="art/section-tech.svg" width="420" alt="Tech Stack">
 
 <br>
@@ -98,13 +94,11 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
 </p>
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="art/section-analytics.svg" width="500" alt="GitHub Analytics">
 
 <br>
@@ -114,14 +108,12 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=09000F&color=E9D5FF&line=D946EF&point=A855F7&area=true&area_color=2E1065&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub Activity Graph">
-
 </div>
 
 ---
 
 <div align="center">
-
-<img src="art/section-connect.svg" width="300" alt="Connect">
+<img src="art/section-connect-centered.svg" width="300" alt="Connect">
 
 <br>
 
@@ -136,5 +128,4 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,50:6D28D9,100:C026D3&height=90&section=footer" width="100%" alt="Cyberpunk footer">
-
 </div>
