@@ -129,3 +129,12 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,50:6D28D9,100:C026D3&height=90&section=footer" width="100%" alt="Cyberpunk footer">
 </div>
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/YASHAS-MN?v=1787511700926"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
