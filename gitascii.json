@@ -35598,8 +35598,9 @@
         "hideDecorations": true,
         "renderMode": "multi",
         "animSpeed": "8s",
-        "staticMode": false,
-        "customTitle": "[LET'S CONNECT]"
+        "staticMode": true,
+        "customTitle": "[LET'S CONNECT]",
+        "showText": false
       },
       "locked": false,
       "visible": true,
