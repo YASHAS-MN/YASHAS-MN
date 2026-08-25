@@ -1,8 +1,0 @@
-<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Profile footer</title>
-  <desc id="desc">A calm closing banner for the profile.</desc>
-  <rect width="1200" height="150" rx="22" fill="#1F2933"/>
-  <path d="M0 96C141 77 232 111 363 88C511 62 610 35 768 49C923 63 1041 108 1200 82V150H0V96Z" fill="#476A5F"/>
-  <path d="M0 119C151 104 253 130 394 111C547 91 671 83 825 98C971 112 1063 134 1200 115V150H0V119Z" fill="#D4A373"/>
-  <text x="600" y="70" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">building practical systems, one clean iteration at a time</text>
-</svg>

@@ -1,8 +1,0 @@
-<svg width="1200" height="86" viewBox="0 0 1200 86" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Workbench divider</title>
-  <desc id="desc">A thin profile divider labeled engineering workbench.</desc>
-  <rect x="1" y="1" width="1198" height="84" rx="18" fill="#FAFAF8" stroke="#D7D0C2" stroke-width="2"/>
-  <path d="M34 43H428" stroke="#93A8A0" stroke-width="2" stroke-linecap="round"/>
-  <path d="M772 43H1166" stroke="#93A8A0" stroke-width="2" stroke-linecap="round"/>
-  <text x="600" y="51" text-anchor="middle" fill="#1F2933" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="650">engineering workbench</text>
-</svg>
