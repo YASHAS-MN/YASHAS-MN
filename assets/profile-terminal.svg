@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="531" viewBox="0 0 760 531" role="img" aria-label="Yashas MN terminal profile">
+  <rect x="1" y="1" width="758" height="529" rx="10" fill="#050507" stroke="#A855F7" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="42" rx="10" fill="#0b0b10"/>
+  <circle cx="22" cy="22" r="6" fill="#A855F7"/>
+  <circle cx="42" cy="22" r="6" fill="#22D3EE"/>
+  <text x="64" y="27" fill="#7f8490" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="14">yashas@github:~</text>
+
+  <g font-family="DejaVu Sans Mono, Courier New, monospace" font-size="17">
+    <text x="28" y="76" fill="#22D3EE">$ whoami</text>
+    <text x="28" y="104" fill="#E6E6E6">Yashas MN</text>
+
+    <text x="28" y="142" fill="#22D3EE">$ identity --show</text>
+    <text x="28" y="170" fill="#A855F7">name</text><text x="150" y="170" fill="#E6E6E6">: Yashas MN</text>
+    <text x="28" y="198" fill="#A855F7">studying @</text><text x="150" y="198" fill="#E6E6E6">: RV College of Engineering</text>
+    <text x="28" y="226" fill="#A855F7">location</text><text x="150" y="226" fill="#E6E6E6">: Bangalore, India</text>
+
+    <text x="28" y="264" fill="#22D3EE">$ github status</text>
+    <text x="28" y="292" fill="#A855F7">uptime</text><text x="150" y="292" fill="#E6E6E6">: 3 years, 1 month, 21 days</text>
+    <text x="28" y="320" fill="#A855F7">repos</text><text x="150" y="320" fill="#E6E6E6">: 24 total  /  21 public  /  3 private</text>
+    <text x="28" y="348" fill="#A855F7">stars</text><text x="150" y="348" fill="#E6E6E6">: tracking</text>
+    <text x="28" y="376" fill="#A855F7">followers</text><text x="150" y="376" fill="#E6E6E6">: tracking</text>
+    <text x="28" y="404" fill="#A855F7">commits</text><text x="150" y="404" fill="#E6E6E6">: active</text>
+    <text x="28" y="432" fill="#A855F7">achievements</text><text x="150" y="432" fill="#E6E6E6">: GitHub profile</text>
+
+    <text x="28" y="470" fill="#22D3EE">$ current focus</text>
+    <text x="28" y="498" fill="#E6E6E6">Cybersecurity · Systems · Building</text>
+  </g>
+</svg>
