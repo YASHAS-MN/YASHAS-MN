@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="531" viewBox="0 0 620 531" role="img" aria-label="Yashas MN terminal profile">
+  <rect width="620" height="531" fill="#050507"/>
+  <g font-family="DejaVu Sans Mono, Courier New, monospace" font-size="20">
+    <text x="18" y="44" fill="#22D3EE">yashas@github:~$ profile</text>
+
+    <text x="18" y="94" fill="#22D3EE">IDENTITY</text>
+    <text x="18" y="130" fill="#A855F7">name</text><text x="88" y="130" fill="#71717A">................................</text><text x="390" y="130" fill="#E4E4E7">Yashas MN</text>
+    <text x="18" y="164" fill="#A855F7">studying @</text><text x="132" y="164" fill="#71717A">........................</text><text x="390" y="164" fill="#E4E4E7">RV College of Engineering</text>
+    <text x="18" y="198" fill="#A855F7">location</text><text x="88" y="198" fill="#71717A">................................</text><text x="390" y="198" fill="#E4E4E7">Bangalore</text>
+
+    <text x="18" y="252" fill="#22D3EE">GITHUB STATUS</text>
+    <text x="18" y="288" fill="#A855F7">uptime</text><text x="88" y="288" fill="#71717A">................................</text><text x="390" y="288" fill="#E4E4E7">3y 1m 21d</text>
+    <text x="18" y="322" fill="#A855F7">commits</text><text x="96" y="322" fill="#71717A">...............................</text><text x="390" y="322" fill="#E4E4E7">active</text>
+    <text x="18" y="356" fill="#A855F7">repositories</text><text x="142" y="356" fill="#71717A">........................</text><text x="390" y="356" fill="#E4E4E7">projects</text>
+    <text x="18" y="390" fill="#A855F7">stars</text><text x="88" y="390" fill="#71717A">................................</text><text x="390" y="390" fill="#E4E4E7">earned</text>
+    <text x="18" y="424" fill="#A855F7">followers</text><text x="116" y="424" fill="#71717A">............................</text><text x="390" y="424" fill="#E4E4E7">community</text>
+
+    <text x="18" y="478" fill="#22D3EE">FOCUS</text>
+    <text x="18" y="514" fill="#E4E4E7">cybersecurity</text><text x="178" y="514" fill="#71717A">............................</text><text x="390" y="514" fill="#A855F7">building</text>
+  </g>
+</svg>
