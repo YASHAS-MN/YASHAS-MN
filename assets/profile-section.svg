@@ -1,22 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Yashas MN profile portrait and terminal information">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Yashas MN ASCII portrait and terminal profile">
   <rect width="1200" height="560" fill="#050507"/>
 
-  <image href="Yashas_MN-ASCII.jpeg" x="0" y="0" width="560" height="560" preserveAspectRatio="xMidYMid meet"/>
+  <!-- Exact repository portrait; absolute URL avoids GitHub SVG relative-image rendering failure. -->
+  <image x="0" y="0" width="560" height="560" preserveAspectRatio="xMidYMid slice"
+         href="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/assets/Yashas_MN-ASCII.jpeg"
+         xlink:href="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/assets/Yashas_MN-ASCII.jpeg"/>
 
-  <g font-family="DejaVu Sans Mono, Courier New, monospace" font-size="20">
-    <text x="610" y="42" fill="#22D3EE">yashas@github:~$ profile</text>
-    <text x="610" y="92" fill="#22D3EE">IDENTITY</text>
-    <text x="610" y="128" fill="#A855F7">name</text><text x="750" y="128" fill="#A855F7">........................</text><text x="990" y="128" fill="#F2F2F2">Yashas MN</text>
-    <text x="610" y="158" fill="#A855F7">studying @</text><text x="750" y="158" fill="#A855F7">..................</text><text x="990" y="158" fill="#F2F2F2">RV College of Engineering</text>
-    <text x="610" y="188" fill="#A855F7">location</text><text x="750" y="188" fill="#A855F7">......................</text><text x="990" y="188" fill="#F2F2F2">Bangalore</text>
-    <text x="610" y="242" fill="#22D3EE">GITHUB STATUS</text>
-    <text x="610" y="278" fill="#A855F7">uptime</text><text x="750" y="278" fill="#A855F7">.........................</text><text x="990" y="278" fill="#F2F2F2">3y 1m 21d</text>
-    <text x="610" y="308" fill="#A855F7">commits</text><text x="750" y="308" fill="#A855F7">........................</text><text x="990" y="308" fill="#F2F2F2">active</text>
-    <text x="610" y="338" fill="#A855F7">repositories</text><text x="750" y="338" fill="#A855F7">....................</text><text x="990" y="338" fill="#F2F2F2">projects</text>
-    <text x="610" y="368" fill="#A855F7">stars</text><text x="750" y="368" fill="#A855F7">...........................</text><text x="990" y="368" fill="#F2F2F2">earned</text>
-    <text x="610" y="398" fill="#A855F7">followers</text><text x="750" y="398" fill="#A855F7">......................</text><text x="990" y="398" fill="#F2F2F2">community</text>
-    <text x="610" y="428" fill="#A855F7">achievements</text><text x="750" y="428" fill="#A855F7">..................</text><text x="990" y="428" fill="#F2F2F2">earned</text>
-    <text x="610" y="482" fill="#22D3EE">FOCUS</text>
-    <text x="610" y="518" fill="#A855F7">cybersecurity</text><text x="800" y="518" fill="#A855F7">................</text><text x="990" y="518" fill="#F2F2F2">building</text>
+  <!-- Terminal: starts immediately after portrait; no border or separator. -->
+  <g font-family="DejaVu Sans Mono, Courier New, monospace" font-size="18">
+    <text x="560" y="38" fill="#22D3EE">yashas@github:~$ profile</text>
+
+    <text x="560" y="82" fill="#22D3EE">IDENTITY</text>
+    <text x="560" y="118" fill="#A855F7">name.................</text><text x="800" y="118" fill="#F2F2F2">Yashas MN</text>
+    <text x="560" y="148" fill="#A855F7">studying@............</text><text x="800" y="148" fill="#F2F2F2">RV College of Engineering</text>
+    <text x="560" y="178" fill="#A855F7">location..............</text><text x="800" y="178" fill="#F2F2F2">Bangalore</text>
+
+    <text x="560" y="232" fill="#22D3EE">GITHUB STATUS</text>
+    <text x="560" y="268" fill="#A855F7">uptime................</text><text x="800" y="268" fill="#F2F2F2">3y 1m 21d</text>
+    <text x="560" y="298" fill="#A855F7">commits...............</text><text x="800" y="298" fill="#F2F2F2">active</text>
+    <text x="560" y="328" fill="#A855F7">repositories..........</text><text x="800" y="328" fill="#F2F2F2">projects</text>
+    <text x="560" y="358" fill="#A855F7">stars.................</text><text x="800" y="358" fill="#F2F2F2">earned</text>
+    <text x="560" y="388" fill="#A855F7">followers.............</text><text x="800" y="388" fill="#F2F2F2">community</text>
+    <text x="560" y="418" fill="#A855F7">achievements..........</text><text x="800" y="418" fill="#F2F2F2">earned</text>
+
+    <text x="560" y="470" fill="#22D3EE">FOCUS</text>
+    <text x="560" y="506" fill="#A855F7">cybersecurity.........</text><text x="800" y="506" fill="#F2F2F2">building</text>
   </g>
 </svg>
