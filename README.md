@@ -1,1 +1,1 @@
-<img src="./assets/header.svg?v=2" alt="YASHAS-MN — GitHub Profile Header" width="100%" />
+<img src="./assets/header-v2.svg" alt="YASHAS-MN — GitHub Profile Header" width="100%" />
