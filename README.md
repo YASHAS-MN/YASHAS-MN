@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/YASHAS-MN?v=1787568282247"
+    src="./assets/gitascii.svg"
     alt="GitAscii Widget"
     width="100%"
   />
