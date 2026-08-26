@@ -1,4 +1,5 @@
 {
+  "username": "YASHAS-MN",
   "widgets": [
     {
       "widgetId": "header",
@@ -41697,5 +41698,6 @@
     "templateStyle": "native",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
