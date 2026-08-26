@@ -1,113 +1,191 @@
-<!--
-  YASHAS-MN // GITHUB PROFILE README (v2)
-  Design rule: ONE accent color everywhere. No gradients. No animation.
-  Accent  : #00FF41  (terminal phosphor green)
-  Base    : #0A0A0A  (near black)
-  Text    : #D9FFE0 / #8FA98F (muted grey-green for secondary text)
-
-  All visuals in /assets are local files generated for this repo —
-  edit the SVG source directly to change text, no external tool needed.
--->
-
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="header"/>
+
+<a href="https://github.com/YASHAS-MN">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=800&color=BD93F9&center=true&vCenter=true&width=650&height=70&lines=%24+whoami;%3E+YASHAS-MN;%3E+building+things+that+scale...;%3E+welcome+to+my+terminal+%F0%9F%91%BE" alt="Typing SVG" />
+</a>
+
 </div>
 
-<br/>
-
-<!-- ================= AVATAR + TERMINAL INFO CARD ================= -->
-
-<table align="center">
-<tr>
-<td width="38%" align="center">
-  <img src="Yashas_MN-ASCII.jpeg" width="100%" alt="ascii portrait"/>
-</td>
-<td width="62%" align="center">
-  <img src="assets/terminal-card.svg" width="100%" alt="terminal info card"/>
-</td>
-</tr>
-</table>
+```console
+yashas@github:~$ ./init.sh
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+> booting profile ................ OK
+> loading dependencies ........... OK
+> mounting /dev/coffee ........... OK
+> ready.
+```
 
 <div align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
+
+<img src="./Yashas_MN-ASCII.jpeg" alt="ASCII portrait of Yashas M N" width="380" />
+
+<sub><code>$ jp2a --colors ./me.jpg</code></sub>
+
 </div>
 
-<!-- ================= NEBULA30 BANNER ================= -->
+---
+
+## `$ cat about.txt`
+
+```yaml
+name:        Yashas M N
+role:        Developer
+location:    Bangalore, India 🇮🇳
+focus:       [ full-stack, systems, clean architecture ]
+currently:   learning something new every day
+philosophy:  "make it work → make it right → make it fast"
+fun_fact:    I debug faster with music on 🎧
+```
+
+```console
+yashas@github:~$ whoami --verbose
+
+  → I build software that is reliable, readable, and ships.
+  → Comfortable across the stack: UI polish to database indexes.
+  → I care about performance budgets, accessibility, and good DX.
+  → Always open to collaborating on interesting problems.
+```
+
+---
+
+## `$ ls ./tech-stack`
 
 <div align="center">
-  <img src="assets/nebula-banner.svg" alt="NEBULA30"/>
+
+**`languages`**
+
+![Python](https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C)
+![TypeScript](https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=8BE9FD)
+![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=openjdk&logoColor=FF79C6)
+![C](https://img.shields.io/badge/C-282A36?style=for-the-badge&logo=c&logoColor=8BE9FD)
+![HTML5](https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FFB86C)
+![CSS3](https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD)
+
+**`frameworks & libraries`**
+
+![React](https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=8BE9FD)
+![Node.js](https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=50FA7B)
+![Express](https://img.shields.io/badge/Express-282A36?style=for-the-badge&logo=express&logoColor=F8F8F2)
+![Tailwind](https://img.shields.io/badge/Tailwind-282A36?style=for-the-badge&logo=tailwindcss&logoColor=8BE9FD)
+![Flask](https://img.shields.io/badge/Flask-282A36?style=for-the-badge&logo=flask&logoColor=F8F8F2)
+
+**`databases`**
+
+![MySQL](https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=8BE9FD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282A36?style=for-the-badge&logo=postgresql&logoColor=BD93F9)
+![MongoDB](https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=50FA7B)
+
+**`tools & platforms`**
+
+![Git](https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FF5555)
+![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2)
+![VS Code](https://img.shields.io/badge/VS_Code-282A36?style=for-the-badge&logo=visualstudiocode&logoColor=8BE9FD)
+![Linux](https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=F1FA8C)
+![Docker](https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=8BE9FD)
+![Figma](https://img.shields.io/badge/Figma-282A36?style=for-the-badge&logo=figma&logoColor=FF79C6)
+
 </div>
+
+---
+
+## `$ git log --stat`
 
 <div align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASHAS-MN&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Languages" />
+
 </div>
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h3 align="center">SYSTEM_STATS</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YASHAS-MN&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=D9FFE0&bg_color=00000000&ring_color=00FF41" alt="github stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHAS-MN&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=D9FFE0&bg_color=00000000&langs_count=8" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YASHAS-MN&theme=dark&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=D9FFE0&sideNums=D9FFE0&dates=8FA98F&currStreakNum=D9FFE0" alt="streak stats"/>
-</p>
+### `$ ./streak --current`
 
 <div align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
+
+<img src="https://streak-stats.demolab.com?user=YASHAS-MN&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD&sideLabels=F8F8F2&dates=6272A4" alt="GitHub Streak" />
+
 </div>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-<h3 align="center">ACTIVITY_LOG</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&theme=react-dark&hide_border=true&bg_color=00000000&color=00FF41&line=00FF41&point=D9FFE0&area=true&area_color=00FF41" width="95%" alt="activity graph"/>
-</p>
+### `$ ./trophies --all`
 
 <div align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YASHAS-MN&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
 </div>
 
-<!-- ================= TECH STACK ================= -->
-
-<h3 align="center">TECH_STACK</h3>
-<p align="center"><i>edit the <code>i=</code> list at skillicons.dev to match your real stack</i></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,java,cpp,git,github,docker,linux,vscode&theme=dark" alt="tech stack"/>
-</p>
+### `$ ./activity --graph`
 
 <div align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
+
+<img src="https://readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=282A36&color=F8F8F2&line=BD93F9&point=FF79C6&area_color=BD93F9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
+
+<br /><br />
+
+<img src="https://ghchart.rshah.org/bd93f9/YASHAS-MN" alt="Contribution Grid" width="100%" />
+
 </div>
 
-<!-- ================= CONNECT ================= -->
+<details>
+<summary><code>$ ./stats --extended</code></summary>
+<br />
+<div align="center">
 
-<h3 align="center">CONNECT</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YASHAS-MN&theme=dracula" alt="Profile Details" width="100%" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/REPLACE_ME"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=00FF41&labelColor=0A0A0A" alt="X"/></a>
-  <a href="https://instagram.com/REPLACE_ME"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=00FF41&labelColor=0A0A0A" alt="Instagram"/></a>
-  <a href="mailto:REPLACE_ME@email.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0A0A0A" alt="Email"/></a>
-  <a href="https://REPLACE_ME.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00FF41&labelColor=0A0A0A" alt="Portfolio"/></a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YASHAS-MN&theme=dracula" width="49%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YASHAS-MN&theme=dracula" width="49%" alt="Most Commit Language" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YASHAS-MN&label=VIEWS&color=00FF41&style=flat-square&labelColor=0A0A0A" alt="profile views"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YASHAS-MN&theme=dracula" width="49%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YASHAS-MN&theme=dracula&utcOffset=5.5" width="49%" alt="Productive Time" />
 
-<!-- ================= FOOTER (local, static) ================= -->
+</div>
+</details>
 
-<p align="center">
-  <img src="assets/divider.svg" width="80%" alt=""/>
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/output/snake-neon.svg" alt="contribution snake" width="100%"/>
-</p>
+## `$ ping --contact`
 
-<p align="center" style="font-family: monospace;">// end of transmission_</p>
+<div align="center">
+
+```console
+yashas@github:~$ cat contact.json
+{
+  "email":    "your.email@example.com",
+  "linkedin": "linkedin.com/in/your-handle",
+  "twitter":  "x.com/your-handle",
+  "website":  "your-site.dev"
+}
+```
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-handle">
+  <img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn" />
+</a>
+<a href="https://x.com/your-handle">
+  <img src="https://img.shields.io/badge/X-282A36?style=for-the-badge&logo=x&logoColor=F8F8F2" alt="X" />
+</a>
+<a href="https://github.com/YASHAS-MN">
+  <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YASHAS-MN&label=PROFILE%20VIEWS&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/YASHAS-MN?label=FOLLOWERS&style=for-the-badge&color=ff79c6&labelColor=282A36" alt="Followers" />
+
+```console
+yashas@github:~$ exit
+logout
+Connection to github.com closed.
+```
+
+<sub>`// thanks for stopping by — star a repo if something here helped you ⭐`</sub>
+
+</div>
