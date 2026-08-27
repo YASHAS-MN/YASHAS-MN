@@ -6,14 +6,14 @@
 
 <img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg?v=7" width="820" alt="Hello there, I'm Yashas MN">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+build+something+cool!" alt="typing">
 
 <br>
 
 <table align="center" cellspacing="10">
 <tr>
-<td align="center"><a href="https://github.com/YASHAS-MN"><img src="https://img.shields.io/github/followers/YASHAS-MN?style=for-the-badge&label=FOLLOWERS&color=2B1238&labelColor=0B0710&logo=github&logoColor=F5E9FF" alt="GitHub Followers"></a></td>
-<td align="center"><a href="https://github.com/YASHAS-MN?tab=repositories"><img src="https://img.shields.io/github/stars/YASHAS-MN?style=for-the-badge&label=STARS&color=3A1038&labelColor=0B0710&logo=github&logoColor=F5E9FF" alt="GitHub Stars"></a></td>
+<td align="center"><a href="https://github.com/YASHAS-MN"><img src="https://img.shields.io/github/followers/YASHAS-MN?style=for-the-badge&label=FOLLOWERS&color=2B1238&labelColor=0B0710&logo=github" alt="Followers"></a></td>
+<td align="center"><a href="https://github.com/YASHAS-MN?tab=repositories"><img src="https://img.shields.io/github/stars/YASHAS-MN?style=for-the-badge&label=STARS&color=3A1038&labelColor=0B0710&logo=github" alt="Stars"></a></td>
 <td align="center"><img src="https://komarev.com/ghpvc/?username=YASHAS-MN&style=for-the-badge&label=PROFILE+VIEWS&color=4A155A&labelColor=0B0710" alt="Profile Views"></td>
 </tr>
 </table>
@@ -31,12 +31,12 @@
 <table width="100%" align="center" border="1" bordercolor="#30363D" cellpadding="0" cellspacing="0" bgcolor="#000000">
 <tr bgcolor="#000000">
 <td bgcolor="#000000" colspan="2" align="left" style="background-color:#000000;padding:12px 18px;">
-<font face="monospace" color="#F0E7F7" size="4">● ● ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="4">yashas@magellan:~$</font>
+<font face="monospace" color="#F0E7F7" size="5">● ● ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="5">yashas@magellan:~$</font>
 </td>
 </tr>
 <tr bgcolor="#000000">
 <td width="68%" bgcolor="#000000" valign="top" align="left" style="background-color:#000000;padding:18px 22px;">
-<pre style="background:#000000;background-color:#000000;color:#F0E7F7;font-family:'Courier New',monospace;font-size:15px;line-height:1.55;margin:0;white-space:pre-wrap;word-break:normal;overflow-wrap:normal;">$ whoami
+<pre style="background:#000000;background-color:#000000;color:#F0E7F7;font-family:'Courier New',monospace;font-size:18px;line-height:1.55;margin:0;white-space:pre-wrap;word-break:normal;overflow-wrap:break-word;">
 
 name.................................Yashas M N
 institution..........................R.V. College of Engineering
