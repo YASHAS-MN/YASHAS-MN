@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg" width="820" alt="Hello there, I'm Yashas MN">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg?v=3" width="820" alt="Hello there, I'm Yashas MN">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
 
@@ -28,15 +28,15 @@
 
 <br>
 
-<table align="center" width="92%" cellspacing="0" cellpadding="0">
-<tr>
-<td colspan="2" align="left" bgcolor="#000000">
-<pre style="background-color:#000000; color:#9F8AAE; margin:0; padding:11px 16px;">●  ●  ●    yashas@magellan:~$</pre>
+<table align="center" width="92%" cellspacing="0" cellpadding="0" bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<tr bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<td colspan="2" align="left" bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<pre style="background:#000000 !important; background-color:#000000 !important; color:#9F8AAE; margin:0; padding:11px 16px;">●  ●  ●    yashas@magellan:~$</pre>
 </td>
 </tr>
-<tr>
-<td width="58%" valign="middle" align="left" bgcolor="#000000">
-<pre style="background-color:#000000; color:#F0E7F7; margin:0; padding:24px 26px; line-height:1.65;"><font color="#A855F7">$ whoami</font>
+<tr bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<td width="58%" valign="middle" align="left" bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<pre style="background:#000000 !important; background-color:#000000 !important; color:#F0E7F7; margin:0; padding:24px 26px; line-height:1.65;"><font color="#A855F7">$ whoami</font>
 
 <font color="#C084FC">name...........</font>Yashas M N
 <font color="#C084FC">institution....</font>R.V. College of Engineering
@@ -56,8 +56,8 @@
 <font color="#C084FC">&gt; </font>Understand deeply. Build deliberately.
 <font color="#A855F7">$ _</font></pre>
 </td>
-<td width="42%" valign="middle" align="center" bgcolor="#000000">
-<img src="Yashas_MN-ASCII.jpeg?raw=1&v=2" width="300" alt="Yashas MN ASCII portrait">
+<td width="42%" valign="middle" align="center" bgcolor="#000000" style="background:#000000 !important; background-color:#000000 !important;">
+<img src="Yashas_MN-ASCII.jpeg?raw=1&v=3" width="300" alt="Yashas MN ASCII portrait" style="display:block; background:#000000 !important; background-color:#000000 !important;">
 </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg" width="100%" alt="Build the system. Understand the system. Own the system.">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg?v=3" width="100%" alt="Build the system. Understand the system. Own the system.">
 </div>
 
 ---
@@ -113,11 +113,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg?v=2" alt="GitHub Streak" width="900">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg?v=3" alt="GitHub Streak" width="900">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg?v=2" width="94%" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg?v=3" width="94%" alt="GitHub Activity Graph">
 </div>
 
 ---
