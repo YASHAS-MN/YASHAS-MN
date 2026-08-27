@@ -28,40 +28,36 @@
 
 <br>
 
-<table align="center" width="92%" cellspacing="0" cellpadding="0" style="border:1px solid #24202A; background:#000000;">
+<table align="center" width="92%" cellspacing="0" cellpadding="0">
 <tr>
-<td colspan="2" align="left" bgcolor="#000000" style="padding:11px 16px; border-bottom:1px solid #24202A;">
-<font face="monospace" size="2" color="#A855F7">●</font>&nbsp;
-<font face="monospace" size="2" color="#C084FC">●</font>&nbsp;
-<font face="monospace" size="2" color="#E9D5FF">●</font>
-&nbsp;&nbsp;&nbsp;
-<font face="monospace" size="2" color="#9F8AAE">yashas@magellan:~$</font>
+<td colspan="2" align="left" bgcolor="#000000">
+<pre style="background-color:#000000; color:#9F8AAE; margin:0; padding:11px 16px;">●  ●  ●    yashas@magellan:~$</pre>
 </td>
 </tr>
 <tr>
-<td width="58%" valign="middle" align="left" bgcolor="#000000" style="padding:24px 26px;">
-<pre style="margin:0; line-height:1.65; background:#000000;"><font face="monospace" color="#A855F7">$ whoami</font>
+<td width="58%" valign="middle" align="left" bgcolor="#000000">
+<pre style="background-color:#000000; color:#F0E7F7; margin:0; padding:24px 26px; line-height:1.65;"><font color="#A855F7">$ whoami</font>
 
-<font face="monospace" color="#C084FC">name...........</font><font face="monospace" color="#F0E7F7">Yashas M N</font>
-<font face="monospace" color="#C084FC">institution....</font><font face="monospace" color="#F0E7F7">R.V. College of Engineering</font>
-<font face="monospace" color="#C084FC">degree.........</font><font face="monospace" color="#F0E7F7">B.E. CSE — Cyber Security</font>
-<font face="monospace" color="#C084FC">github.........</font><font face="monospace" color="#F0E7F7">YASHAS-MN</font>
-<font face="monospace" color="#C084FC">uptime.........</font><font face="monospace" color="#A855F7">3.2 years</font>
-<font face="monospace" color="#C084FC">status.........</font><font face="monospace" color="#A855F7">ONLINE</font>
+<font color="#C084FC">name...........</font>Yashas M N
+<font color="#C084FC">institution....</font>R.V. College of Engineering
+<font color="#C084FC">degree.........</font>B.E. CSE — Cyber Security
+<font color="#C084FC">github.........</font>YASHAS-MN
+<font color="#C084FC">uptime.........</font><font color="#A855F7">3.2 years</font>
+<font color="#C084FC">status.........</font><font color="#A855F7">ONLINE</font>
 
-<font face="monospace" color="#A855F7">$ cat /etc/focus</font>
+<font color="#A855F7">$ cat /etc/focus</font>
 
-<font face="monospace" color="#C084FC">security.......</font><font face="monospace" color="#F0E7F7">Cybersecurity · Ethical Hacking</font>
-<font face="monospace" color="#C084FC">engineering....</font><font face="monospace" color="#F0E7F7">Full Stack · Systems · DSA</font>
-<font face="monospace" color="#C084FC">exploring......</font><font face="monospace" color="#F0E7F7">AI/ML · Decentralization · CS</font>
-<font face="monospace" color="#C084FC">beyond.........</font><font face="monospace" color="#F0E7F7">Cosmos · Physics · Consciousness</font>
+<font color="#C084FC">security.......</font>Cybersecurity · Ethical Hacking
+<font color="#C084FC">engineering....</font>Full Stack · Systems · DSA
+<font color="#C084FC">exploring......</font>AI/ML · Decentralization · CS
+<font color="#C084FC">beyond.........</font>Cosmos · Physics · Consciousness
 
-<font face="monospace" color="#A855F7">$ cat /etc/mindset</font>
-<font face="monospace" color="#C084FC">&gt; </font><font face="monospace" color="#F0E7F7">Understand deeply. Build deliberately.</font>
-<font face="monospace" color="#A855F7">$ _</font></pre>
+<font color="#A855F7">$ cat /etc/mindset</font>
+<font color="#C084FC">&gt; </font>Understand deeply. Build deliberately.
+<font color="#A855F7">$ _</font></pre>
 </td>
-<td width="42%" valign="middle" align="center" bgcolor="#000000" style="padding:18px 24px; background:#000000;">
-<img src="Yashas_MN-ASCII.jpeg" width="300" alt="Yashas MN ASCII portrait" style="display:block; background:#000000;">
+<td width="42%" valign="middle" align="center" bgcolor="#000000">
+<img src="Yashas_MN-ASCII.jpeg?raw=1&v=2" width="300" alt="Yashas MN ASCII portrait">
 </td>
 </tr>
 </table>
@@ -117,11 +113,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg" alt="GitHub Streak" width="900">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg?v=2" alt="GitHub Streak" width="900">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg" width="94%" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg?v=2" width="94%" alt="GitHub Activity Graph">
 </div>
 
 ---
