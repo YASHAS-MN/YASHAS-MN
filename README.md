@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="art/hello-neon.svg" width="820" alt="Hello there, I'm Yashas MN">
+<img src="hello-yashas.svg" width="820" alt="Hello there, I'm Yashas MN">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
 
