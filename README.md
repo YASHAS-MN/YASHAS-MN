@@ -23,34 +23,57 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-whoami.svg" width="620" alt="whoami">
-</div>
 
-<table align="center" width="92%">
+## `whoami`
+
+<br>
+
+<table align="center" width="94%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="64%" valign="top">
+<td width="67%" valign="top" bgcolor="#0B0710">
 
-### 👨‍💻 About Me
+<table width="100%" cellspacing="0" cellpadding="8" bgcolor="#130D1B">
+<tr><td>
+<font face="monospace" size="2" color="#A855F7">●</font>
+<font face="monospace" size="2" color="#C084FC">●</font>
+<font face="monospace" size="2" color="#E9D5FF">●</font>
+&nbsp;&nbsp;
+<font face="monospace" size="2" color="#9F8AAE">yashas@magellan: ~</font>
+</td></tr>
+</table>
 
-I'm **Yashas MN**, a Computer Science engineering student at **R.V. College of Engineering**, focused on building software across **full-stack engineering, decentralized technology, cybersecurity, and intelligent systems**.
+<table width="100%" cellspacing="0" cellpadding="5" bgcolor="#0B0710">
+<tr><td>
+<pre><font face="monospace" color="#E9D5FF">$ </font><font face="monospace" color="#A855F7">whoami</font>
 
-I enjoy understanding systems from the ground up — from APIs and databases to distributed systems and user-controlled data.
+<font face="monospace" color="#C084FC">name        </font><font face="monospace" color="#E9D5FF">:: Yashas M N</font>
+<font face="monospace" color="#C084FC">institution </font><font face="monospace" color="#E9D5FF">:: R.V. College of Engineering</font>
+<font face="monospace" color="#C084FC">degree      </font><font face="monospace" color="#E9D5FF">:: B.E. CSE — Cyber Security</font>
+<font face="monospace" color="#C084FC">github      </font><font face="monospace" color="#E9D5FF">:: YASHAS-MN</font>
+<font face="monospace" color="#C084FC">uptime      </font><font face="monospace" color="#A855F7">:: 3.2 years</font>
+<font face="monospace" color="#C084FC">status      </font><font face="monospace" color="#A855F7">:: ONLINE</font>
 
-- 🎓 **B.E. CSE (Cyber Security)** — R.V. College of Engineering
-- 🚀 Currently building **NebulaVerse**
-- 🧠 Interested in **Machine Learning, Decentralized Tech, Full Stack Development, Software Design & Architecture**
-- 🔐 Curious about **security, privacy, and user-controlled data**
-- ☕ Coffee + laptop + curiosity = a good day
-- 🛠️ Build, break, understand, rebuild
+<font face="monospace" color="#C084FC">focus       </font><font face="monospace" color="#E9D5FF">:: Cybersecurity · Full Stack · Systems</font>
+<font face="monospace" color="#C084FC">exploring   </font><font face="monospace" color="#E9D5FF">:: AI/ML · Decentralization · Computer Science</font>
+<font face="monospace" color="#C084FC">interests   </font><font face="monospace" color="#E9D5FF">:: Cosmos · Physics · Consciousness · Art · Music</font>
+<font face="monospace" color="#C084FC">building    </font><font face="monospace" color="#E9D5FF">:: Software that is useful, secure and meaningful</font>
+
+<font face="monospace" color="#A855F7">$ </font><font face="monospace" color="#E9D5FF">cat /etc/mindset</font>
+<font face="monospace" color="#C084FC">&gt; </font><font face="monospace" color="#E9D5FF">Understand deeply. Build deliberately. Question everything.</font>
+
+<font face="monospace" color="#A855F7">$ </font><font face="monospace" color="#E9D5FF">_</font></pre>
+</td></tr>
+</table>
 
 </td>
-<td width="36%" align="center" valign="middle">
 
-<img src="Yashas_MN-ASCII.jpeg" width="320" alt="Yashas MN — Profile">
-
+<td width="33%" align="center" valign="middle" bgcolor="#0B0710">
+<img src="Yashas_MN-ASCII.jpeg" width="320" alt="Yashas MN ASCII portrait">
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg" width="100%" alt="Build the system. Understand the system. Own the system.">
