@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720">
+  <rect width="100%" height="100%" fill="#000000" />
+  <style>
+    .mono { font-family: 'Courier New', monospace; font-size:22px; fill:#F0E7F7; }
+    .prompt { font-family: 'Courier New', monospace; font-size:22px; fill:#C084FC; }
+  </style>
+  <!-- Prompt line -->
+  <text x="18" y="34" class="mono">
+    <tspan fill="#F0E7F7">● ● ●</tspan>
+    <tspan x="120" fill="#C084FC">yashas@magellan:~$</tspan>
+  </text>
+
+  <!-- Body lines (preformatted) -->
+  <text x="18" y="74" class="mono">
+    <tspan x="18" dy="0"> </tspan>
+    <tspan x="18" dy="28">name.................................Yashas M N</tspan>
+    <tspan x="18" dy="28">institution..........................R.V. College of Engineering</tspan>
+    <tspan x="18" dy="28">degree...............................B.E. CSE — Cyber Security</tspan>
+    <tspan x="18" dy="28">github...............................YASHAS-MN</tspan>
+    <tspan x="18" dy="28">uptime...............................3.2 years</tspan>
+    <tspan x="18" dy="28">status...............................ONLINE</tspan>
+    <tspan x="18" dy="28"> </tspan>
+    <tspan x="18" dy="28">$ cat /etc/focus</tspan>
+    <tspan x="18" dy="28"> </tspan>
+    <tspan x="18" dy="28">security............................Cybersecurity · Ethical Hacking</tspan>
+    <tspan x="18" dy="28">engineering.........................Full Stack · Systems · DSA</tspan>
+    <tspan x="18" dy="28">building............................Secure software · Useful systems</tspan>
+    <tspan x="18" dy="28">learning............................Computer Science · Architecture</tspan>
+    <tspan x="18" dy="28">exploring...........................AI/ML · Decentralization · CS</tspan>
+    <tspan x="18" dy="28">beyond..............................Cosmos · Physics · Consciousness</tspan>
+    <tspan x="18" dy="28"> </tspan>
+    <tspan x="18" dy="28">$ cat /etc/mindset</tspan>
+    <tspan x="18" dy="28"> </tspan>
+    <tspan x="18" dy="28">principle...........................Understand deeply. Build deliberately.</tspan>
+    <tspan x="18" dy="28">philosophy..........................Question everything. Own the system.</tspan>
+    <tspan x="18" dy="28">interests...........................Art · Music · Flute · Ancient literature</tspan>
+    <tspan x="18" dy="28"> </tspan>
+    <tspan x="18" dy="28">$ _</tspan>
+  </text>
+</svg>

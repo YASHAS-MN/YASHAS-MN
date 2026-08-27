@@ -30,37 +30,8 @@
 
 <table width="100%" align="center" border="1" bordercolor="#30363D" cellpadding="0" cellspacing="0" bgcolor="#000000">
 <tr bgcolor="#000000">
-<td bgcolor="#000000" colspan="2" align="left" style="background-color:#000000;padding:12px 18px;">
-<font face="monospace" color="#F0E7F7" size="5">● ● ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="5">yashas@magellan:~$</font>
-</td>
-</tr>
-<tr bgcolor="#000000">
-<td width="68%" bgcolor="#000000" valign="top" align="left" style="background-color:#000000;padding:18px 22px;">
-<pre style="background:#000000;background-color:#000000;color:#F0E7F7;font-family:'Courier New',monospace;font-size:18px;line-height:1.55;margin:0;white-space:pre-wrap;word-break:normal;overflow-wrap:break-word;">
-
-name.................................Yashas M N
-institution..........................R.V. College of Engineering
-degree...............................B.E. CSE — Cyber Security
-github...............................YASHAS-MN
-uptime...............................3.2 years
-status...............................ONLINE
-
-$ cat /etc/focus
-
-security............................Cybersecurity · Ethical Hacking
-engineering.........................Full Stack · Systems · DSA
-building............................Secure software · Useful systems
-learning............................Computer Science · Architecture
-exploring...........................AI/ML · Decentralization · CS
-beyond..............................Cosmos · Physics · Consciousness
-
-$ cat /etc/mindset
-
-principle...........................Understand deeply. Build deliberately.
-philosophy..........................Question everything. Own the system.
-interests...........................Art · Music · Flute · Ancient literature
-
-$ _</pre>
+<td width="68%" bgcolor="#000000" valign="top" align="left" style="background-color:#000000;padding:12px 18px;">
+<img src="whoami.svg" alt="whoami" width="100%" style="display:block;">
 </td>
 <td width="32%" bgcolor="#000000" valign="middle" align="center" style="background-color:#000000;padding:0;">
 <img src="Yashas_MN-ASCII.jpeg?raw=1&v=11" width="100%" alt="Yashas MN ASCII portrait" style="display:block;max-width:330px;margin:0 auto;background:#000000;">
