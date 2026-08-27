@@ -28,34 +28,50 @@
 
 <br>
 
-<table align="center" width="92%" border="1" bordercolor="#2D2140" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr>
+<td bgcolor="#000000" style="background:#000000;">
+
+<table width="100%" border="1" bordercolor="#30203D" cellpadding="0" cellspacing="0" bgcolor="#000000">
 <tr bgcolor="#000000">
-<td colspan="2" bgcolor="#000000" align="left">
-<pre><font color="#F0E7F7">●  ●  ●</font>    <font color="#C084FC">yashas@magellan:~$</font></pre>
+<td bgcolor="#000000" style="background:#000000; padding:12px 20px;" align="left">
+<font face="monospace" color="#F0E7F7" size="3">●  ●  ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="3">yashas@magellan:~$</font>
 </td>
 </tr>
 <tr bgcolor="#000000">
-<td width="60%" bgcolor="#000000" valign="middle" align="left">
-<pre><font color="#A855F7">$ whoami</font>
-<font color="#C084FC">name...........</font>Yashas M N
-<font color="#C084FC">institution....</font>R.V. College of Engineering
-<font color="#C084FC">degree.........</font>B.E. CSE — Cyber Security
-<font color="#C084FC">github.........</font>YASHAS-MN
-<font color="#C084FC">uptime.........</font><font color="#A855F7">3.2 years</font>
-<font color="#C084FC">status.........</font><font color="#A855F7">ONLINE</font>
+<td bgcolor="#000000" style="background:#000000; padding:0;">
 
-<font color="#A855F7">$ cat /etc/focus</font>
-<font color="#C084FC">security.......</font>Cybersecurity · Ethical Hacking
-<font color="#C084FC">engineering....</font>Full Stack · Systems · DSA
-<font color="#C084FC">exploring......</font>AI/ML · Decentralization · CS
-<font color="#C084FC">beyond.........</font>Cosmos · Physics · Consciousness
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr bgcolor="#000000">
+<td width="62%" bgcolor="#000000" style="background:#000000; padding:28px 34px;" valign="middle" align="left">
+<font face="monospace" color="#A855F7" size="3">$ whoami</font><br><br>
+<font face="monospace" color="#C084FC" size="3">name...........</font><font face="monospace" color="#F0E7F7" size="3">Yashas M N</font><br>
+<font face="monospace" color="#C084FC" size="3">institution....</font><font face="monospace" color="#F0E7F7" size="3">R.V. College of Engineering</font><br>
+<font face="monospace" color="#C084FC" size="3">degree.........</font><font face="monospace" color="#F0E7F7" size="3">B.E. CSE — Cyber Security</font><br>
+<font face="monospace" color="#C084FC" size="3">github.........</font><font face="monospace" color="#F0E7F7" size="3">YASHAS-MN</font><br>
+<font face="monospace" color="#C084FC" size="3">uptime.........</font><font face="monospace" color="#A855F7" size="3">3.2 years</font><br>
+<font face="monospace" color="#C084FC" size="3">status.........</font><font face="monospace" color="#A855F7" size="3">ONLINE</font><br><br>
 
-<font color="#A855F7">$ cat /etc/mindset</font>
-<font color="#C084FC">&gt; </font>Understand deeply. Build deliberately.
-<font color="#A855F7">$ _</font></pre>
+<font face="monospace" color="#A855F7" size="3">$ cat /etc/focus</font><br><br>
+<font face="monospace" color="#C084FC" size="3">security.......</font><font face="monospace" color="#F0E7F7" size="3">Cybersecurity · Ethical Hacking</font><br>
+<font face="monospace" color="#C084FC" size="3">engineering....</font><font face="monospace" color="#F0E7F7" size="3">Full Stack · Systems · DSA</font><br>
+<font face="monospace" color="#C084FC" size="3">exploring......</font><font face="monospace" color="#F0E7F7" size="3">AI/ML · Decentralization · CS</font><br>
+<font face="monospace" color="#C084FC" size="3">beyond.........</font><font face="monospace" color="#F0E7F7" size="3">Cosmos · Physics · Consciousness</font><br><br>
+
+<font face="monospace" color="#A855F7" size="3">$ cat /etc/mindset</font><br>
+<font face="monospace" color="#C084FC" size="3">&gt; </font><font face="monospace" color="#F0E7F7" size="3">Understand deeply. Build deliberately.</font><br>
+<font face="monospace" color="#A855F7" size="3">$ _</font>
 </td>
-<td width="40%" bgcolor="#000000" valign="middle" align="center">
-<img src="Yashas_MN-ASCII.jpeg?raw=1&v=5" width="360" alt="Yashas MN ASCII portrait">
+<td width="38%" bgcolor="#000000" style="background:#000000; padding:18px 18px;" valign="middle" align="center">
+<img src="Yashas_MN-ASCII.jpeg?raw=1&v=6" width="100%" alt="Yashas MN ASCII portrait">
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>
