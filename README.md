@@ -28,42 +28,37 @@
 
 <br>
 
-<div align="center" style="width:92%; margin:0 auto; background:#000000; background-color:#000000; border:1px solid #30363d; border-radius:6px; overflow:hidden; text-align:left;">
+<table align="center" width="92%" border="1" bordercolor="#2D2140" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr bgcolor="#000000">
+<td colspan="2" bgcolor="#000000" align="left">
+<pre><font color="#F0E7F7">●  ●  ●</font>    <font color="#C084FC">yashas@magellan:~$</font></pre>
+</td>
+</tr>
+<tr bgcolor="#000000">
+<td width="60%" bgcolor="#000000" valign="middle" align="left">
+<pre><font color="#A855F7">$ whoami</font>
+<font color="#C084FC">name...........</font>Yashas M N
+<font color="#C084FC">institution....</font>R.V. College of Engineering
+<font color="#C084FC">degree.........</font>B.E. CSE — Cyber Security
+<font color="#C084FC">github.........</font>YASHAS-MN
+<font color="#C084FC">uptime.........</font><font color="#A855F7">3.2 years</font>
+<font color="#C084FC">status.........</font><font color="#A855F7">ONLINE</font>
 
-<div style="background:#000000; background-color:#000000; border-bottom:1px solid #30363d; padding:10px 18px; font-family:monospace; font-size:14px; color:#C084FC;">
-<span style="color:#F0E7F7;">●</span>&nbsp;&nbsp;<span style="color:#C084FC;">●</span>&nbsp;&nbsp;<span style="color:#A855F7;">●</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#F0E7F7;">yashas@magellan:~$</span>
-</div>
+<font color="#A855F7">$ cat /etc/focus</font>
+<font color="#C084FC">security.......</font>Cybersecurity · Ethical Hacking
+<font color="#C084FC">engineering....</font>Full Stack · Systems · DSA
+<font color="#C084FC">exploring......</font>AI/ML · Decentralization · CS
+<font color="#C084FC">beyond.........</font>Cosmos · Physics · Consciousness
 
-<div style="background:#000000; background-color:#000000; padding:22px 24px; text-align:left;">
-
-<div style="display:inline-block; vertical-align:middle; width:58%; min-width:360px; background:#000000; background-color:#000000; color:#F0E7F7; font-family:'Courier New',monospace; font-size:14px; line-height:1.7;">
-
-<font color="#A855F7">$ whoami</font><br><br>
-<font color="#C084FC">name...........</font>Yashas M N<br>
-<font color="#C084FC">institution....</font>R.V. College of Engineering<br>
-<font color="#C084FC">degree.........</font>B.E. CSE — Cyber Security<br>
-<font color="#C084FC">github.........</font>YASHAS-MN<br>
-<font color="#C084FC">uptime.........</font><font color="#A855F7">3.2 years</font><br>
-<font color="#C084FC">status.........</font><font color="#A855F7">ONLINE</font><br><br>
-
-<font color="#A855F7">$ cat /etc/focus</font><br><br>
-<font color="#C084FC">security.......</font>Cybersecurity · Ethical Hacking<br>
-<font color="#C084FC">engineering....</font>Full Stack · Systems · DSA<br>
-<font color="#C084FC">exploring......</font>AI/ML · Decentralization · CS<br>
-<font color="#C084FC">beyond.........</font>Cosmos · Physics · Consciousness<br><br>
-
-<font color="#A855F7">$ cat /etc/mindset</font><br>
-<font color="#C084FC">&gt; </font>Understand deeply. Build deliberately.<br>
-<font color="#A855F7">$ _</font>
-
-</div>
-
-<div style="display:inline-block; vertical-align:middle; width:39%; min-width:280px; text-align:center; background:#000000; background-color:#000000;">
-<img src="Yashas_MN-ASCII.jpeg?raw=1&v=4" width="330" alt="Yashas MN ASCII portrait" style="display:block; margin:0 auto; background:#000000; background-color:#000000;">
-</div>
-
-</div>
-</div>
+<font color="#A855F7">$ cat /etc/mindset</font>
+<font color="#C084FC">&gt; </font>Understand deeply. Build deliberately.
+<font color="#A855F7">$ _</font></pre>
+</td>
+<td width="40%" bgcolor="#000000" valign="middle" align="center">
+<img src="Yashas_MN-ASCII.jpeg?raw=1&v=5" width="360" alt="Yashas MN ASCII portrait">
+</td>
+</tr>
+</table>
 
 </div>
 
