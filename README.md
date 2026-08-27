@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="hello-yashas.svg" width="820" alt="Hello there, I'm Yashas MN">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg" width="820" alt="Hello there, I'm Yashas MN">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
 
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-<img src="section-whoami.svg" width="620" alt="whoami">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-whoami.svg" width="620" alt="whoami">
 </div>
 
 <table align="center" width="92%">
@@ -53,28 +53,28 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 </table>
 
 <div align="center">
-<img src="system-quote.svg" width="100%" alt="Build the system. Understand the system. Own the system.">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg" width="100%" alt="Build the system. Understand the system. Own the system.">
 </div>
 
 ---
 
 <div align="center">
-<img src="section-tech.svg" width="620" alt="Tech Stack">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-tech.svg" width="620" alt="Tech Stack">
 
 <br>
 
 <p align="center">
-<img src="category-languages.svg" width="300" alt="Languages"><br>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/category-languages.svg" width="300" alt="Languages"><br>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" height="48" alt="Languages">
 </p>
 
 <p align="center">
-<img src="category-frontend.svg" width="430" alt="Frontend and Backend"><br>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/category-frontend.svg" width="430" alt="Frontend and Backend"><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind&theme=dark" height="48" alt="Frontend and Backend">
 </p>
 
 <p align="center">
-<img src="category-aiml.svg" width="240" alt="AI and ML"><br>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/category-aiml.svg" width="240" alt="AI and ML"><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="48" alt="AI and ML">
 <img src="https://cdn.simpleicons.org/scikitlearn/FFFFFF" height="42" alt="Scikit-learn">
 <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="42" alt="NumPy">
@@ -82,12 +82,12 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 </p>
 
 <p align="center">
-<img src="category-systems.svg" width="480" alt="Systems DevOps Security"><br>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/category-systems.svg" width="480" alt="Systems DevOps Security"><br>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" height="48" alt="Systems DevOps Security">
 </p>
 
 <p align="center">
-<img src="category-data.svg" width="360" alt="Decentralized Data"><br>
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/category-data.svg" width="360" alt="Decentralized Data"><br>
 <img src="https://cdn.simpleicons.org/solidity/FFFFFF" height="42" alt="Solidity">
 <img src="https://cdn.simpleicons.org/ethereum/FFFFFF" height="42" alt="Ethereum">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="48" alt="Data technologies">
@@ -97,7 +97,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 ---
 
 <div align="center">
-<img src="section-analytics.svg" width="720" alt="GitHub Analytics">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-analytics.svg" width="720" alt="GitHub Analytics">
 
 <br>
 
@@ -111,7 +111,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 ---
 
 <div align="center">
-<img src="section-connect-centered.svg" width="520" alt="Connect">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-connect-centered.svg" width="520" alt="Connect">
 
 <br>
 
@@ -121,7 +121,7 @@ I enjoy understanding systems from the ground up — from APIs and databases to 
 
 <br><br>
 
-<img src="connect-phrase.svg" width="900" alt="Let's build something worth remembering.">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/connect-phrase.svg" width="900" alt="Let's build something worth remembering.">
 
 <br>
 
