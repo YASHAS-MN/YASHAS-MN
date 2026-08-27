@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="120" viewBox="0 0 820 120" role="img" aria-labelledby="title desc">
+  <title id="title">Hello there, I'm Yashas MN</title>
+  <desc id="desc">A purple gradient greeting with a subtle glow.</desc>
+  <defs>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#D946EF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="410" y="74" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="40" font-weight="700" letter-spacing="0.5" fill="url(#purple)" filter="url(#glow)">Hello there, I'm Yashas MN</text>
+</svg>
