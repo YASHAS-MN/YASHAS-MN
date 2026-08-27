@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg?v=5" width="820" alt="Hello there, I'm Yashas MN">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/hello-yashas.svg?v=6" width="820" alt="Hello there, I'm Yashas MN">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Yo%2C+let's+decentralize.;Control+your+own+data.;What's+better+than+a+cup+of+coffee+%26+a+laptop%3F;Pew+pew+pew+%F0%9F%9A%80" alt="Typing animation">
 
@@ -28,44 +28,57 @@
 
 <br>
 
-<table align="center" width="100%" border="1" bordercolor="#30203D" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<table width="100%" align="center" border="1" bordercolor="#30363D" cellpadding="0" cellspacing="0" bgcolor="#000000">
 <tr bgcolor="#000000">
-<td bgcolor="#000000" align="left" style="background:#000000;padding:12px 20px;">
-<font face="monospace" color="#F0E7F7" size="4">●  ●  ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="4">yashas@magellan:~$</font>
+<td bgcolor="#000000" colspan="2" align="left" style="background-color:#000000;padding:13px 18px;">
+<font face="monospace" color="#F0E7F7" size="4">● ● ●</font>&nbsp;&nbsp;&nbsp;&nbsp;<font face="monospace" color="#C084FC" size="4">yashas@magellan:~$</font>
 </td>
 </tr>
 <tr bgcolor="#000000">
-<td bgcolor="#000000" style="background:#000000;padding:0;">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-<tr bgcolor="#000000">
-<td width="72%" bgcolor="#000000" valign="top" align="left" style="background:#000000;padding:24px 26px;">
+<td width="70%" bgcolor="#000000" valign="top" align="left" style="background-color:#000000;padding:22px 22px;">
+
 <font face="monospace" color="#A855F7" size="4">$ whoami</font><br><br>
-<font face="monospace" color="#C084FC" size="4">name........................</font><font face="monospace" color="#F0E7F7" size="4">Yashas M N</font><br>
-<font face="monospace" color="#C084FC" size="4">institution.................</font><font face="monospace" color="#F0E7F7" size="4">R.V. College of Engineering</font><br>
-<font face="monospace" color="#C084FC" size="4">degree......................</font><font face="monospace" color="#F0E7F7" size="4">B.E. CSE — Cyber Security</font><br>
-<font face="monospace" color="#C084FC" size="4">github......................</font><font face="monospace" color="#F0E7F7" size="4">YASHAS-MN</font><br>
-<font face="monospace" color="#C084FC" size="4">uptime......................</font><font face="monospace" color="#A855F7" size="4">3.2 years</font><br>
-<font face="monospace" color="#C084FC" size="4">status......................</font><font face="monospace" color="#A855F7" size="4">ONLINE</font><br><br>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr bgcolor="#000000"><td width="25%" align="left"><font face="monospace" color="#C084FC" size="4">name</font></td><td align="center"><font face="monospace" color="#555555" size="4">........................</font></td><td width="35%" align="right"><font face="monospace" color="#F0E7F7" size="4">Yashas M N</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">institution</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">R.V. College of Engineering</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">degree</font></td><td align="center"><font face="monospace" color="#555555" size="4">.........................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">B.E. CSE — Cyber Security</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">github</font></td><td align="center"><font face="monospace" color="#555555" size="4">..........................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">YASHAS-MN</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">uptime</font></td><td align="center"><font face="monospace" color="#555555" size="4">.........................</font></td><td align="right"><font face="monospace" color="#A855F7" size="4">3.2 years</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">status</font></td><td align="center"><font face="monospace" color="#555555" size="4">.........................</font></td><td align="right"><font face="monospace" color="#A855F7" size="4">ONLINE</font></td></tr>
+</table>
+
+<br>
 <font face="monospace" color="#A855F7" size="4">$ cat /etc/focus</font><br><br>
-<font face="monospace" color="#C084FC" size="4">security...................</font><font face="monospace" color="#F0E7F7" size="4">Cybersecurity · Ethical Hacking</font><br>
-<font face="monospace" color="#C084FC" size="4">engineering................</font><font face="monospace" color="#F0E7F7" size="4">Full Stack · Systems · DSA</font><br>
-<font face="monospace" color="#C084FC" size="4">building...................</font><font face="monospace" color="#F0E7F7" size="4">Secure software · Useful systems</font><br>
-<font face="monospace" color="#C084FC" size="4">learning...................</font><font face="monospace" color="#F0E7F7" size="4">Computer Science · Architecture</font><br>
-<font face="monospace" color="#C084FC" size="4">exploring..................</font><font face="monospace" color="#F0E7F7" size="4">AI/ML · Decentralization · CS</font><br>
-<font face="monospace" color="#C084FC" size="4">beyond.....................</font><font face="monospace" color="#F0E7F7" size="4">Cosmos · Physics · Consciousness</font><br><br>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr bgcolor="#000000"><td width="25%" align="left"><font face="monospace" color="#C084FC" size="4">security</font></td><td align="center"><font face="monospace" color="#555555" size="4">.....................</font></td><td width="50%" align="right"><font face="monospace" color="#F0E7F7" size="4">Cybersecurity · Ethical Hacking</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">engineering</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Full Stack · Systems · DSA</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">building</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Secure software · Useful systems</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">learning</font></td><td align="center"><font face="monospace" color="#555555" size="4">.....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Computer Science · Architecture</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">exploring</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">AI/ML · Decentralization · CS</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">beyond</font></td><td align="center"><font face="monospace" color="#555555" size="4">......................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Cosmos · Physics · Consciousness</font></td></tr>
+</table>
+
+<br>
 <font face="monospace" color="#A855F7" size="4">$ cat /etc/mindset</font><br><br>
-<font face="monospace" color="#C084FC" size="4">principle..................</font><font face="monospace" color="#F0E7F7" size="4">Understand deeply. Build deliberately.</font><br>
-<font face="monospace" color="#C084FC" size="4">philosophy.................</font><font face="monospace" color="#F0E7F7" size="4">Question everything. Own the system.</font><br>
-<font face="monospace" color="#C084FC" size="4">interests..................</font><font face="monospace" color="#F0E7F7" size="4">Art · Music · Flute · Ancient literature</font><br><br>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<tr bgcolor="#000000"><td width="25%" align="left"><font face="monospace" color="#C084FC" size="4">principle</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td width="50%" align="right"><font face="monospace" color="#F0E7F7" size="4">Understand deeply. Build deliberately.</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">philosophy</font></td><td align="center"><font face="monospace" color="#555555" size="4">....................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Question everything. Own the system.</font></td></tr>
+<tr bgcolor="#000000"><td align="left"><font face="monospace" color="#C084FC" size="4">interests</font></td><td align="center"><font face="monospace" color="#555555" size="4">......................</font></td><td align="right"><font face="monospace" color="#F0E7F7" size="4">Art · Music · Flute · Ancient literature</font></td></tr>
+</table>
+
+<br>
 <font face="monospace" color="#A855F7" size="4">$ _</font>
+
 </td>
-<td width="28%" bgcolor="#000000" valign="middle" align="center" style="background:#000000;padding:10px 8px;">
-<img src="Yashas_MN-ASCII.jpeg?raw=1&v=9" width="250" alt="Yashas MN ASCII portrait">
+<td width="30%" bgcolor="#000000" valign="middle" align="center" style="background-color:#000000;padding:10px 12px;">
+<img src="Yashas_MN-ASCII.jpeg?raw=1&v=10" width="310" alt="Yashas MN ASCII portrait">
 </td>
 </tr>
 </table>
+
 </td>
 </tr>
 </table>
@@ -73,7 +86,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg?v=6" width="100%" alt="Build the system. Understand the system. Own the system.">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/system-quote.svg?v=7" width="100%" alt="Build the system. Understand the system. Own the system.">
 </div>
 
 ---
@@ -117,15 +130,15 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-analytics.svg?v=6" width="720" alt="GitHub Analytics">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/section-analytics.svg?v=7" width="720" alt="GitHub Analytics">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg?v=6" alt="GitHub Streak" width="900">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg?v=7" alt="GitHub Streak" width="900">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg?v=6" width="94%" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg?v=7" width="94%" alt="GitHub Activity Graph">
 </div>
 
 ---
@@ -141,7 +154,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/connect-phrase.svg?v=6" width="900" alt="Let's build something worth remembering.">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/main/connect-phrase.svg?v=7" width="900" alt="Let's build something worth remembering.">
 
 <br>
 
