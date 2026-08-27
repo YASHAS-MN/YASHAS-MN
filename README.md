@@ -28,9 +28,9 @@
 
 <br>
 
-<table align="center" width="92%" cellspacing="0" cellpadding="0" bgcolor="#000000" style="border:1px solid #27212F;">
+<table align="center" width="92%" cellspacing="0" cellpadding="0" style="border:1px solid #24202A; background:#000000;">
 <tr>
-<td colspan="2" align="left" bgcolor="#0B0710" style="padding:10px 16px; border-bottom:1px solid #27212F;">
+<td colspan="2" align="left" bgcolor="#000000" style="padding:11px 16px; border-bottom:1px solid #24202A;">
 <font face="monospace" size="2" color="#A855F7">●</font>&nbsp;
 <font face="monospace" size="2" color="#C084FC">●</font>&nbsp;
 <font face="monospace" size="2" color="#E9D5FF">●</font>
@@ -39,29 +39,29 @@
 </td>
 </tr>
 <tr>
-<td width="58%" valign="middle" align="left" bgcolor="#000000" style="padding:24px 24px 22px 26px;">
-<pre style="margin:0; line-height:1.6; background:#000000;"><font face="monospace" size="3" color="#A855F7">$ whoami</font>
+<td width="58%" valign="middle" align="left" bgcolor="#000000" style="padding:24px 26px;">
+<pre style="margin:0; line-height:1.65; background:#000000;"><font face="monospace" color="#A855F7">$ whoami</font>
 
-<font face="monospace" size="3" color="#C084FC">name...........</font><font face="monospace" size="3" color="#F3E8FF">Yashas M N</font>
-<font face="monospace" size="3" color="#C084FC">institution....</font><font face="monospace" size="3" color="#F3E8FF">R.V. College of Engineering</font>
-<font face="monospace" size="3" color="#C084FC">degree.........</font><font face="monospace" size="3" color="#F3E8FF">B.E. CSE — Cyber Security</font>
-<font face="monospace" size="3" color="#C084FC">github.........</font><font face="monospace" size="3" color="#F3E8FF">YASHAS-MN</font>
-<font face="monospace" size="3" color="#C084FC">uptime.........</font><font face="monospace" size="3" color="#A855F7">3.2 years</font>
-<font face="monospace" size="3" color="#C084FC">status.........</font><font face="monospace" size="3" color="#A855F7">ONLINE</font>
+<font face="monospace" color="#C084FC">name...........</font><font face="monospace" color="#F0E7F7">Yashas M N</font>
+<font face="monospace" color="#C084FC">institution....</font><font face="monospace" color="#F0E7F7">R.V. College of Engineering</font>
+<font face="monospace" color="#C084FC">degree.........</font><font face="monospace" color="#F0E7F7">B.E. CSE — Cyber Security</font>
+<font face="monospace" color="#C084FC">github.........</font><font face="monospace" color="#F0E7F7">YASHAS-MN</font>
+<font face="monospace" color="#C084FC">uptime.........</font><font face="monospace" color="#A855F7">3.2 years</font>
+<font face="monospace" color="#C084FC">status.........</font><font face="monospace" color="#A855F7">ONLINE</font>
 
-<font face="monospace" size="3" color="#A855F7">$ cat /etc/focus</font>
+<font face="monospace" color="#A855F7">$ cat /etc/focus</font>
 
-<font face="monospace" size="3" color="#C084FC">security.......</font><font face="monospace" size="3" color="#F3E8FF">Cybersecurity · Ethical Hacking</font>
-<font face="monospace" size="3" color="#C084FC">engineering....</font><font face="monospace" size="3" color="#F3E8FF">Full Stack · Systems · DSA</font>
-<font face="monospace" size="3" color="#C084FC">exploring......</font><font face="monospace" size="3" color="#F3E8FF">AI/ML · Decentralization · CS</font>
-<font face="monospace" size="3" color="#C084FC">beyond.........</font><font face="monospace" size="3" color="#F3E8FF">Cosmos · Physics · Consciousness</font>
+<font face="monospace" color="#C084FC">security.......</font><font face="monospace" color="#F0E7F7">Cybersecurity · Ethical Hacking</font>
+<font face="monospace" color="#C084FC">engineering....</font><font face="monospace" color="#F0E7F7">Full Stack · Systems · DSA</font>
+<font face="monospace" color="#C084FC">exploring......</font><font face="monospace" color="#F0E7F7">AI/ML · Decentralization · CS</font>
+<font face="monospace" color="#C084FC">beyond.........</font><font face="monospace" color="#F0E7F7">Cosmos · Physics · Consciousness</font>
 
-<font face="monospace" size="3" color="#A855F7">$ cat /etc/mindset</font>
-<font face="monospace" size="3" color="#C084FC">&gt; </font><font face="monospace" size="3" color="#F3E8FF">Understand deeply. Build deliberately.</font>
-<font face="monospace" size="3" color="#A855F7">$ _</font></pre>
+<font face="monospace" color="#A855F7">$ cat /etc/mindset</font>
+<font face="monospace" color="#C084FC">&gt; </font><font face="monospace" color="#F0E7F7">Understand deeply. Build deliberately.</font>
+<font face="monospace" color="#A855F7">$ _</font></pre>
 </td>
-<td width="42%" valign="middle" align="center" bgcolor="#000000" style="padding:10px 20px;">
-<img src="Yashas_MN-ASCII.jpeg" width="300" alt="Yashas MN ASCII portrait">
+<td width="42%" valign="middle" align="center" bgcolor="#000000" style="padding:18px 24px; background:#000000;">
+<img src="Yashas_MN-ASCII.jpeg" width="300" alt="Yashas MN ASCII portrait" style="display:block; background:#000000;">
 </td>
 </tr>
 </table>
