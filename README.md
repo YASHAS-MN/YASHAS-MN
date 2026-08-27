@@ -124,11 +124,11 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YASHAS-MN&theme=transparent&hide_border=true&background=09000F&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9F8AAE" alt="GitHub Streak">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-streak.svg" alt="GitHub Streak" width="900">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHAS-MN&bg_color=09000F&color=E9D5FF&line=A855F7&point=C084FC&area=true&area_color=2E1065&hide_border=true&custom_title=Contribution%20Activity" width="94%" alt="GitHub Activity Graph">
+<img src="https://raw.githubusercontent.com/YASHAS-MN/YASHAS-MN/gh-pages/github-activity.svg" width="94%" alt="GitHub Activity Graph">
 </div>
 
 ---
