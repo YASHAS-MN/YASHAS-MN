@@ -1,0 +1,147 @@
+name: Update GitHub Profile Stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl -fsSL https://api.github.com/graphql \
+            -H "Authorization: bearer ${GH_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data-binary @- > /tmp/contributions.json <<'JSON'
+          {
+            "query": "query { user(login: \"YASHAS-MN\") { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } } } } }"
+          }
+          JSON
+          python - <<'PY'
+          import json, sys
+          data=json.load(open('/tmp/contributions.json'))
+          if 'errors' in data:
+              print(data['errors'])
+              sys.exit(1)
+          days=[]
+          for week in data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']:
+              days.extend(week['contributionDays'])
+          with open('/tmp/days.json','w') as f:
+              json.dump(days,f)
+          PY
+
+      - name: Generate SVG cards
+        run: |
+          python - <<'PY'
+          import json, os, datetime
+          from html import escape
+
+          days=json.load(open('/tmp/days.json'))
+          days=sorted(days, key=lambda x:x['date'])
+          today=datetime.date.today()
+          by_date={datetime.date.fromisoformat(d['date']): d['contributionCount'] for d in days}
+
+          # Current and longest contribution streaks. GitHub's calendar is UTC-based.
+          cur=0
+          d=today
+          if by_date.get(d,0)==0:
+              d=today-datetime.timedelta(days=1)
+          while by_date.get(d,0)>0:
+              cur+=1
+              d-=datetime.timedelta(days=1)
+
+          longest=0
+          run=0
+          for d in sorted(by_date):
+              if by_date[d]>0:
+                  run+=1
+                  longest=max(longest,run)
+              else:
+                  run=0
+
+          total=sum(by_date.values())
+          recent=[]
+          start=today-datetime.timedelta(days=30)
+          for i in range(31):
+              d=start+datetime.timedelta(days=i)
+              recent.append((d,by_date.get(d,0)))
+
+          W,H=900,300
+          bg='#09000F'; text='#E9D5FF'; muted='#9F8AAE'; purple='#A855F7'; violet='#8B5CF6'; light='#C084FC'
+          parts=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
+                 '<rect width="100%" height="100%" rx="18" fill="#09000F"/>',
+                 '<rect x="1" y="1" width="898" height="298" rx="18" fill="none" stroke="#2E1065"/>',
+                 '<style>text{font-family:JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace}</style>']
+          parts.append(f'<text x="36" y="48" fill="{text}" font-size="22" font-weight="700">GITHUB STREAK</text>')
+          stats=[('CURRENT',f'{cur} days'),('LONGEST',f'{longest} days'),('TOTAL',f'{total:,}')]
+          xs=[36,310,584]
+          for (label,val),x in zip(stats,xs):
+              parts.append(f'<text x="{x}" y="92" fill="{muted}" font-size="13">{label}</text>')
+              parts.append(f'<text x="{x}" y="135" fill="{light}" font-size="30" font-weight="700">{escape(val)}</text>')
+          parts.append(f'<text x="36" y="182" fill="{muted}" font-size="13">CONTRIBUTION ACTIVITY · LAST 31 DAYS</text>')
+          maxc=max([c for _,c in recent] or [1])
+          base=250
+          bw=22
+          gap=6
+          for i,(d,c) in enumerate(recent):
+              h=8 if c==0 else 12+int(72*c/maxc)
+              x=36+i*(bw+gap)
+              y=base-h
+              fill='#1B1026' if c==0 else ('#5B21B6' if c==1 else ('#7C3AED' if c<=3 else ('#A855F7' if c<=6 else '#C084FC')))
+              parts.append(f'<rect x="{x}" y="{y}" width="{bw}" height="{h}" rx="4" fill="{fill}"/>')
+          parts.append(f'<text x="36" y="280" fill="{muted}" font-size="11">{start.isoformat()}</text>')
+          parts.append(f'<text x="820" y="280" fill="{muted}" font-size="11">{today.isoformat()}</text>')
+          parts.append('</svg>')
+          streak=''.join(parts)
+
+          aw,ah=900,260
+          p=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{aw}" height="{ah}" viewBox="0 0 {aw} {ah}">',
+             '<rect width="100%" height="100%" rx="18" fill="#09000F"/>',
+             '<rect x="1" y="1" width="898" height="258" rx="18" fill="none" stroke="#2E1065"/>',
+             '<style>text{font-family:JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,monospace}</style>',
+             f'<text x="36" y="44" fill="{text}" font-size="22" font-weight="700">CONTRIBUTION ACTIVITY</text>',
+             f'<text x="36" y="68" fill="{muted}" font-size="12">YASHAS-MN · LAST 31 DAYS</text>']
+          # grid
+          left,top=36,88
+          cell=18
+          for i,(d,c) in enumerate(recent):
+              x=left+i*27
+              fill='#160D20' if c==0 else ('#4C1D95' if c==1 else ('#7C3AED' if c<=3 else ('#A855F7' if c<=6 else '#C084FC')))
+              p.append(f'<rect x="{x}" y="{top}" width="20" height="95" rx="5" fill="{fill}" opacity="0.9"/>')
+              p.append(f'<text x="{x+10}" y="202" text-anchor="middle" fill="{muted}" font-size="9">{d.day}</text>')
+          p.append(f'<text x="36" y="236" fill="{muted}" font-size="11">Commits, pull requests, issues and other GitHub contributions</text>')
+          p.append('</svg>')
+          activity=''.join(p)
+
+          os.makedirs('/tmp/stats',exist_ok=True)
+          open('/tmp/stats/github-streak.svg','w').write(streak)
+          open('/tmp/stats/github-activity.svg','w').write(activity)
+          PY
+
+      - name: Publish cards to gh-pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          rm -rf /tmp/gh-pages
+          git clone --depth 1 --branch gh-pages "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/gh-pages
+          cp /tmp/stats/github-streak.svg /tmp/gh-pages/github-streak.svg
+          cp /tmp/stats/github-activity.svg /tmp/gh-pages/github-activity.svg
+          cd /tmp/gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-streak.svg github-activity.svg
+          if git diff --cached --quiet; then
+            echo "Stats unchanged"
+            exit 0
+          fi
+          git commit -m "Update GitHub profile stats"
+          git push origin gh-pages
